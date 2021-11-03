@@ -201,15 +201,26 @@ USE_TZ = True
 STATIC_URL = '/static/'
 CSRF_COOKIE_SECURE = False  # To allow http sites
 
-CORS_ORIGIN_WHITELIST = ["http://localhost:3000",
+DEV_WHITE_LIST = ["http://localhost:3000",
                         "http://127.0.0.1:8000",
                         "https://webtrader.igmc.uk",
-                        "https://backend.igmc.uk",
+                        "https://igmcbackend.herokuapp.com",
+                        ]
+PROD_WHITE_LIST= [
+                    "https://webtrader.igmc.uk",
+                    "https://igmcbackend.herokuapp.com",
                         ]
 
-CSRF_TRUSTED_ORIGINS = [ "https://webtrader.igmc.uk",
+CORS_ORIGIN_WHITELIST = PROD_WHITE_LIST
+
+DEV_CORE_ORIGINS =[ "https://webtrader.igmc.uk",
                          "http://localhost:3000",
                         ]
+PROD_CORE_ORIGINS=[ "https://webtrader.igmc.uk",
+                        
+                        ]
+
+CSRF_TRUSTED_ORIGINS = PROD_CORE_ORIGINS
 CORS_ALLOW_METHODS = [
     'DELETE',
     'GET',
