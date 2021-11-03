@@ -150,7 +150,7 @@ DEVELOPMENT_DATABASES2 = {
     }
 }
 
-DATABASES = DEVELOPMENT_DATABASES2 #PRODUCTION_DATABASES
+DATABASES = PRODUCTION_DATABASES
 
 # Password validation
 # https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators
