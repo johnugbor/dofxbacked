@@ -363,7 +363,7 @@ SIMPLE_JWT = {
     
 }
 ACCOUNT_ADAPTER = 'igmcaccount.adapter.DefaultAccountAdapterCustom'
-URL_FRONT = 'https://webtrader.igmc.uk/'
+URL_FRONT = 'webtrader.igmc.uk'
 # dev
 #LOGIN_URL = 'http://localhost:8000/account/login/'
 #prod
