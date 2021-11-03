@@ -88,7 +88,7 @@ ROOT_URLCONF = 'backend.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [os.path.join(BASE_DIR, 'backen/templates')],
+        'DIRS': [os.path.join(BASE_DIR, 'backend/templates')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -340,8 +340,8 @@ EMAIL_HOST = 'smtp.gmail.com'
 #EMAIL_HOST_PASSWORD = os.environ.get('MAILGUN_SMTP_PASSWORD', '')
 
 SIMPLE_JWT = {
-    'ACCESS_TOKEN_LIFETIME': timedelta(days=200),
-    'REFRESH_TOKEN_LIFETIME': timedelta(days=300),
+    'ACCESS_TOKEN_LIFETIME': timedelta(days=2),
+    'REFRESH_TOKEN_LIFETIME': timedelta(days=3),
     'ROTATE_REFRESH_TOKENS': False,
     'BLACKLIST_AFTER_ROTATION': True,
     'UPDATE_LAST_LOGIN': False,
@@ -363,7 +363,7 @@ SIMPLE_JWT = {
     
 }
 ACCOUNT_ADAPTER = 'igmcaccount.adapter.DefaultAccountAdapterCustom'
-URL_FRONT = 'https://backend.netlify.app/'
+URL_FRONT = 'https://webtrader.igmc.uk/'
 # dev
 #LOGIN_URL = 'http://localhost:8000/account/login/'
 #prod
