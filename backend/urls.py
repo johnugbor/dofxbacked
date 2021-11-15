@@ -16,15 +16,15 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 from rest_framework import routers
-#from backend import views
+from trade import views
 
 router = routers.DefaultRouter()
-#router.register(r'todos', views.TodoListView, 'backend')
+router.register(r'balance', views.WalletView, 'trade')
 #router.register(r'pay', views.PaymentView, 'backend')
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('igmcaccount.urls')),
 
-    #path('api/', include(router.urls))
+    path('api/', include(router.urls))
 ]
