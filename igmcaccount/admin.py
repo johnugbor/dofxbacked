@@ -1,7 +1,7 @@
 from django.http import HttpResponse
 from django.contrib import admin
 
-from igmcaccount.models import User
+from igmcaccount.models import User,Profile
 
 class AccountsAdmin(admin.ModelAdmin):
     '''Define admin model for custom User model.'''
@@ -49,5 +49,9 @@ class AccountsAdmin(admin.ModelAdmin):
     deactivate_user.short_description = 'Deactivate selected'
     activate_user.short_description = 'Activate selected'
 
+class ProfilesAdmin(admin.ModelAdmin):
+    fields =('full_name','currency','phone_number','user')
+
 admin.site.register(User, AccountsAdmin,)
+admin.site.register(Profile, ProfilesAdmin,)
 

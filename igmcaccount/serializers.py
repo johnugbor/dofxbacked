@@ -18,7 +18,7 @@ class CustomRegisterSerializer( RegisterSerializer, serializers.ModelSerializer)
         model = get_user_model()
         fields = [
              'email', 'password1',
-            'password2', 
+            'password2','full_name','currency','phone_number'
         ]
 
     
@@ -36,4 +36,5 @@ class CustomUserDetailsSerializer( UserDetailsSerializer):
             'password'
         ]
         read_only_fields = ['email', 'id']
+
 

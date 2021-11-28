@@ -15,16 +15,20 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
+from django.contrib.staticfiles.urls import staticfiles_urlpatterns
 from rest_framework import routers
 from trade import views
 
 router = routers.DefaultRouter()
-router.register(r'balance', views.WalletView, 'trade')
+#router.register(r'balance', views.WalletView, 'trade')
 #router.register(r'pay', views.PaymentView, 'backend')
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('igmcaccount.urls')),
+        # Wallet related URL's
+    path('api/', include('trade.urls')),
 
     path('api/', include(router.urls))
 ]
+urlpatterns += staticfiles_urlpatterns()

@@ -8,4 +8,4 @@ class WalletSerializer(serializers.ModelSerializer):
 class TransactionSerializer(serializers.ModelSerializer):
 	class Meta:
 		model = Transaction
-		fields = ('id','amount','transaction_type','wallet_id')
+		fields = ('id','amount','transaction_type','transaction_status','wallet','timestamp_created')

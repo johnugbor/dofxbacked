@@ -204,6 +204,7 @@ STATIC_URL = '/static/'
 CSRF_COOKIE_SECURE = False  # To allow http sites
 
 DEV_WHITE_LIST = ["http://localhost:3000",
+                    "https://dofxplus.netlify.app",
                         "http://127.0.0.1:8000",
                         "https://webtrader.igmc.uk",
                         "https://igmcbackend.herokuapp.com",
@@ -213,16 +214,18 @@ PROD_WHITE_LIST= [
                     "https://igmcbackend.herokuapp.com",
                         ]
 
-CORS_ORIGIN_WHITELIST = PROD_WHITE_LIST
+CORS_ORIGIN_WHITELIST = DEV_WHITE_LIST
 
-DEV_CORE_ORIGINS =[ "https://webtrader.igmc.uk",
-                         "http://localhost:3000",
+DEV_CORE_ORIGINS =["https://dofxplus.netlify.app",
+                    "https://webtrader.igmc.uk",
+                    "http://localhost:3000",
                         ]
-PROD_CORE_ORIGINS=[ "https://webtrader.igmc.uk",
+PROD_CORE_ORIGINS=[ "https://dofxplus.netlify.app",
+                    "https://webtrader.igmc.uk",
                         
                         ]
 
-CSRF_TRUSTED_ORIGINS = PROD_CORE_ORIGINS
+CSRF_TRUSTED_ORIGINS = DEV_CORE_ORIGINS
 CORS_ALLOW_METHODS = [
     'DELETE',
     'GET',
@@ -320,13 +323,20 @@ ACCOUNT_AUTHENTICATION_METHOD = 'username_email'
 ACCOUNT_CONFIRM_EMAIL_ON_GET = True
 REST_USE_JWT = True
 
-EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
-#EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
-EMAIL_HOST_USER = env('EMAIL_HOST_USER')
-EMAIL_HOST_PASSWORD = env('EMAIL_HOST_PASSWORD')
-EMAIL_USE_TLS= True
-EMAIL_PORT = 587
-EMAIL_HOST = 'smtp.gmail.com'
+#heroku gmail config
+#EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
+
+# EMAIL_HOST_USER = env('EMAIL_HOST_USER')
+# EMAIL_HOST_PASSWORD = env('EMAIL_HOST_PASSWORD')
+# EMAIL_USE_TLS= True
+# EMAIL_PORT = 587
+# EMAIL_HOST = 'smtp.gmail.com'
+
+#console email test
+EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+EMAIL_HOST = 'localhost'
+EMAIL_PORT = 1025
+
 
 #production
 #EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
