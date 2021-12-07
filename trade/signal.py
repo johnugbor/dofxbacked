@@ -14,7 +14,7 @@ def send_mail_to_admin(sender, instance, created, **kwargs):
 	email_body = withraw_sender.email + ' has placed a withdrawal request' 
 
 	from_email = 'mrjohnugbor@gmail.com'
-	to_emails = ['ugborjohn@gmail.com']
+	to_emails = ['mrjohnugbor@gmail.com']
 	print("email  sent")
 	send_mail (
         email_subject,

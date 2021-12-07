@@ -22,7 +22,7 @@ class User(AbstractBaseUser, PermissionsMixin):
     email = models.EmailField(unique=True)
     password = models.CharField(max_length=500)
     full_name =models.TextField(max_length=500)
-    currency = models.CharField(max_length=1)
+    currency = models.CharField(max_length=3)
     phone_number=models.CharField(max_length=14)
     is_active = models.BooleanField(default=True)
     is_verified = models.BooleanField(default=False)

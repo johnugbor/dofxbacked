@@ -1,6 +1,6 @@
 from django.urls import path
 
-from .views import CheckBalance, DepositAmount, WithdrawAmount, ListTransactions,ProcessWithdrawal
+from .views import CheckBalance, DepositAmount, WithdrawAmount, ListTransactions,ProcessWithdrawal,BuyOrder,SellOrder,OpenPosition,ClosedPosition,ClosePosition,FinancePanel
 
 
 urlpatterns = [
@@ -20,6 +20,12 @@ urlpatterns = [
     #Process withdraw `amount` from transaction
     path('wallet/process_withdrawal/', ProcessWithdrawal.as_view(), name='process-withdraw'),
    
+    path('buy/', BuyOrder.as_view(), name='buy'),
+    path('sell/', SellOrder.as_view(), name='sell'),
+    path('openposition/', OpenPosition.as_view(), name='openposition'),
+    path('closedposition/', ClosedPosition.as_view(), name='closedposition'),
+    path('closeposition/', ClosePosition.as_view(), name='closeposition'),
+    path('financepanel/', FinancePanel.as_view(), name='financepanel'),
 
 
 

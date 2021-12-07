@@ -4,11 +4,13 @@ from django.utils.translation import ugettext_lazy as _
 from rest_framework import status, viewsets, parsers
 from rest_framework.response import Response
 from dj_rest_auth.registration.views import VerifyEmailView
+from dj_rest_auth.registration.views import RegisterView
 
 import igmcaccount.serializers as serializers
 import igmcaccount.models as models
-
-
+from .serializers import CustomRegisterSerializer
+class AccountRegisterView(RegisterView):
+    serializer_class = CustomRegisterSerializer
 
 class EmailConfirmationView(VerifyEmailView):
 

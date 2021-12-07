@@ -18,16 +18,17 @@ class Wallet(BaseModel):
 	 	return self.__class__.objects.filter(id=self.id)
 
 	@transaction.atomic()
-	def deposit(self, amount):
+	def deposit(self, amount,email):
 		""" Deposit `amount` to wallet.
         """
 		amount = Decimal(amount)
 
 		obj = self.get_queryset().select_for_update().get()
-		obj.transaction_set.create(
+		obj.debit_withdraw_transaction.create(
             amount=amount,
             transaction_type='DEPO',
             transaction_status='COMPLETED',
+            email=email,
             
         )
 		obj.balance += amount
@@ -42,11 +43,11 @@ class Wallet(BaseModel):
 		
 		amount = Decimal(amount)
 		
-
+ 
 		obj = self.get_queryset().select_for_update().get()
 		if amount > obj.balance:
 			raise errors.InsufficientFunds()
-		obj.transaction_set.create(
+		obj.debit_withdraw_transaction.create(
             amount=amount,
             transaction_type='WITHD',
             transaction_status='PROCESSING',
@@ -56,6 +57,80 @@ class Wallet(BaseModel):
 		obj.balance -= amount
 		obj.save()
 
+	@transaction.atomic()
+	def tradeclosedeposit(self, amount,email):
+		""" Deposit `amount` to wallet.
+        """
+		amount = Decimal(amount)
+
+		obj = self.get_queryset().select_for_update().get()
+		obj.debit_withdraw_transaction.create(
+            amount=amount,
+            transaction_type='CLOSE',
+            transaction_status='COMPLETED',
+            email=email,
+            
+        )
+		obj.balance += amount
+		obj.save()
+
+	@transaction.atomic()
+	def openbuy(self, asset_name,asset_volume,useremail,cost,open_price,profit,stop_loss_value,stop_loss_price,symbol,leverage ):
+		cost = Decimal(cost)
+		open_price =Decimal(open_price)
+		stop_loss_value =Decimal(stop_loss_value)
+		stop_loss_price = Decimal(stop_loss_price)
+
+		obj = self.get_queryset().select_for_update().get()
+		if cost >obj.balance:
+			raise errors.InsufficientFunds()
+		obj.tradetransaction.create(
+
+			asset_name = asset_name,
+			asset_volume = asset_volume,
+			trade_type = 'BUY',
+			cost = cost,
+			open_price =open_price,
+			current_price=open_price,
+			profit = profit,
+			stop_loss_value =stop_loss_value,
+			stop_loss_price = stop_loss_price,
+			symbol = symbol,
+			user = useremail,
+			leverage=leverage,
+
+			)
+		obj.balance -= cost
+		obj.save()
+
+	@transaction.atomic()
+	def opensell(self, asset_name,asset_volume,useremail,cost,open_price,profit,stop_loss_value,stop_loss_price,symbol,leverage ):
+		cost = Decimal(cost)
+		open_price =Decimal(open_price)
+		stop_loss_value =Decimal(stop_loss_value)
+		stop_loss_price = Decimal(stop_loss_price)
+
+		obj = self.get_queryset().select_for_update().get()
+		if cost >obj.balance:
+			raise errors.InsufficientFunds()
+		obj.tradetransaction.create(
+
+			asset_name = asset_name,
+			asset_volume = asset_volume,
+			trade_type = 'SELL',
+			cost = cost,
+			open_price =open_price,
+			current_price=open_price,
+			profit = profit,
+			stop_loss_value =stop_loss_value,
+			stop_loss_price = stop_loss_price,
+			symbol = symbol,
+			user = useremail,
+			leverage=leverage,
+
+			)
+		obj.balance -= cost
+		obj.save()
 
 
 class Transaction(BaseModel):
@@ -63,7 +138,7 @@ class Transaction(BaseModel):
 
 	class TransactionType(models.TextChoices):
 		BUY = 'BUY',_('Buy')
-		SELL = 'SELL',_('Sell')
+		CLOSE = 'CLOSE',_('Trade Close')
 		DEPOSIT = 'DEPO',_('Deposit')
 		WITHDRAWAL = 'WITHD',_('Withdrawal')
 
@@ -92,15 +167,22 @@ class Transaction(BaseModel):
 			id=pk,
 			transaction_status="COMPLETED")
 		obj.save()
+
+class Asset(models.Model):
+
+	name = models.CharField(max_length=52)
+	symbol = models.CharField(primary_key=True,max_length=22)
+	price = models.DecimalField(max_digits=10, decimal_places=2,default=0)
+
+
+
 class TradeTransaction(models.Model):
 
 	class TradeType(models.TextChoices):
 		BUY =('BUY',_('Buy'))
 		SELL =('SELL',_('Sell'))
 
-	class TradeStatusType(models.TextChoices):
-		OPEN = ('OPEN',_('Open'))
-		CLOSE = ('CLOSE',_('Close'))
+
 	open_time = models.DateTimeField(auto_now=True)
 	asset_name = models.CharField(max_length=32)
 	asset_volume =models.IntegerField(default=0)
@@ -109,17 +191,15 @@ class TradeTransaction(models.Model):
 	cost =models.DecimalField(max_digits=10,decimal_places=2,default=0)
 	open_price=models.DecimalField(max_digits=10,decimal_places=2,default=0)
 	profit=models.DecimalField(max_digits=10,decimal_places=2,default=0)
+	leverage=models.DecimalField(max_digits=10,decimal_places=2,default=0)
 	stop_loss_value=models.DecimalField(max_digits=10,decimal_places=2,default=0)
 	stop_loss_price=models.DecimalField(max_digits=10,decimal_places=2,default=0)
 	current_price=models.DecimalField(max_digits=10,decimal_places=2,default=0)
-	trade_status = models.CharField(max_length=5, choices=TradeStatusType.choices,default=TradeStatusType.OPEN)
+	is_trade_open = models.BooleanField(default=True)
 	close_time = models.DateTimeField(null=True,blank=True)
-	wallet = models.ForeignKey(Wallet, on_delete=models.CASCADE,related_name='trade_open_close')
-	user = models.ForeignKey(User, on_delete=models.CASCADE,related_name='trade_transaction')
-
-
-
-
+	wallet = models.ForeignKey(Wallet, null=True,on_delete=models.SET_NULL,related_name='tradetransaction')
+	user = models.CharField(max_length=555, null=True)
+	symbol = models.CharField(max_length=32, null=True)
 
 
 

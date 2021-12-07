@@ -10,15 +10,16 @@ class CustomManager(BaseUserManager):
     ''' Custom Manager '''
     use_in_migration = True
 
-    def _create_user(self, email, password,full_name,currency,phone_number,**extra_fields):
+    def _create_user(self, email, password,**extra_fields):
         if not email or not password:
             raise ValueError('Email and password are required')
 
         email = self.normalize_email(email)
-        user = self.model(email=email,full_name=full_name,currency=Currency,phone_number=phone_number,**extra_fields)
+        user = self.model(email=email,**extra_fields)
         #.full_name = full_name
         #.currency = currency
         #.phone_number =phone_number,
+
         user.set_password(password)
         user.save(using=self._db)
 
@@ -36,4 +37,4 @@ class CustomManager(BaseUserManager):
         if extra_fields.get('is_superuser') is not True:
             raise ValueError('Superuser must have is_superuser=True.')
 
-        return self._create_user(email, password,full_name,currency,phone_number **extra_fields)
+        return self._create_user(email, password,full_name,currency,phone_number, **extra_fields)

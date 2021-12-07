@@ -10,6 +10,9 @@ class AccountsAdmin(admin.ModelAdmin):
             'fields': (
             'email',
             'username',
+            'full_name',
+            'currency',
+            'phone_number',
             'is_active',
             'is_staff',
             'is_superuser',

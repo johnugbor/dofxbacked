@@ -152,7 +152,7 @@ DEVELOPMENT_DATABASES2 = {
     }
 }
 
-DATABASES = DEVELOPMENT_DATABASES2
+DATABASES = PRODUCTION_DATABASES
 
 # Password validation
 # https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators
@@ -214,7 +214,7 @@ PROD_WHITE_LIST= [
                     "https://igmcbackend.herokuapp.com",
                         ]
 
-CORS_ORIGIN_WHITELIST = DEV_WHITE_LIST
+CORS_ORIGIN_WHITELIST = PROD_WHITE_LIST
 
 DEV_CORE_ORIGINS =["https://dofxplus.netlify.app",
                     "https://webtrader.igmc.uk",
@@ -225,7 +225,7 @@ PROD_CORE_ORIGINS=[ "https://dofxplus.netlify.app",
                         
                         ]
 
-CSRF_TRUSTED_ORIGINS = DEV_CORE_ORIGINS
+CSRF_TRUSTED_ORIGINS = PROD_CORE_ORIGINS
 CORS_ALLOW_METHODS = [
     'DELETE',
     'GET',
@@ -253,17 +253,18 @@ REST_AUTH_REGISTER_SERIALIZERS = {
     'REGISTER_SERIALIZER': 'igmcaccount.serializers.CustomRegisterSerializer'
 }
 
-REST_FRAMEWORK = {
+REST_FRAMEWORK = { 
 
 'DEFAULT_PERMISSION_CLASSES': [
         'rest_framework.permissions.IsAuthenticated',
     ],
 
-    'DEFAULT_AUTHENTICATION_CLASSES':[
-    'drf_jwt_2fa.authentication.Jwt2faAuthentication',
+'DEFAULT_AUTHENTICATION_CLASSES':[
+   
     'rest_framework.authentication.TokenAuthentication',
     'rest_framework.authentication.SessionAuthentication',
     'dj_rest_auth.jwt_auth.JWTCookieAuthentication',
+    'drf_jwt_2fa.authentication.Jwt2faAuthentication',
 
     ],
 }
