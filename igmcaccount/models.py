@@ -49,37 +49,37 @@ class User(AbstractBaseUser, PermissionsMixin):
         verbose_name = _('user')
         verbose_name_plural = _('users')
 
-class Profile(models.Model):
+# class Profile(models.Model):
 
-    class Currency(models.TextChoices):
-        CAD = 'C$',_('CAD')
-        USD = '$',_('USD')
-        AUD = 'A$',_('AUD')
-        GBP = '£',_('GBP')
-        EUR = '€',_('EURO')
-        CHF = 'CHF',_('CHF')
+#     class Currency(models.TextChoices):
+#         CAD = 'C$',_('CAD')
+#         USD = '$',_('USD')
+#         AUD = 'A$',_('AUD')
+#         GBP = '£',_('GBP')
+#         EUR = '€',_('EURO')
+#         CHF = 'CHF',_('CHF')
 
     
-    full_name =models.TextField(max_length=500)
-    currency = models.CharField(max_length=3,choices=Currency.choices,default='',)
-    phone_number=models.CharField(max_length=14)
-    user = models.OneToOneField(User, on_delete=models.CASCADE,related_name='profile')
+#     full_name =models.TextField(max_length=500)
+#     currency = models.CharField(max_length=3,choices=Currency.choices,default='',)
+#     phone_number=models.CharField(max_length=14)
+#     user = models.OneToOneField(User, on_delete=models.CASCADE,related_name='profile')
 
-def create_profile(sender, instance, created, **kwargs):
+# def create_profile(sender, instance, created, **kwargs):
 
-    if created:
-        Profile.objects.create(user=instance)
-post_save.connect(create_profile, sender=User)
+#     if created:
+#         Profile.objects.create(user=instance)
+# post_save.connect(create_profile, sender=User)
 
-def delete_user(sender, instance=None,**kwargs):
+# def delete_user(sender, instance=None,**kwargs):
 
-    try:
-        instance.user
-    except User.DoestNotExist:
-        pass
-    else:
-        instance.user.delete()
-post_delete.connect(delete_user, sender=Profile)
+#     try:
+#         instance.user
+#     except User.DoestNotExist:
+#         pass
+#     else:
+#         instance.user.delete()
+# post_delete.connect(delete_user, sender=Profile)
 
 
 
