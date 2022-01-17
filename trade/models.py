@@ -204,7 +204,7 @@ class Asset(models.Model):
     spread_diff = models.IntegerField(default=0)
     digits = models.IntegerField(default=0)
     description = models.TextField(null=True, blank=True, default="Enter description...")
-    contract_size = models.DecimalField(default=0, decimal_places=2, max_digits=1000000)
+    contract_size = models.DecimalField(default=0, decimal_places=2, max_digits=100)
     instrument = models.IntegerField(default=0)
     volume_min = models.IntegerField(default=1)
     volume_max = models.IntegerField(default=3000)
