@@ -152,7 +152,7 @@ DEVELOPMENT_DATABASES2 = {
     }
 }
 
-DATABASES = PRODUCTION_DATABASES 
+DATABASES = PRODUCTION_DATABASES
 #DATABASES = DEVELOPMENT_DATABASES2
 # Password validation
 # https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators
@@ -220,6 +220,7 @@ CORS_ORIGIN_WHITELIST = PROD_WHITE_LIST
 DEV_CORE_ORIGINS =["https://dofxplus.netlify.app",
                     "https://webtrader.igmc.uk",
                     "http://localhost:3000",
+
                         ]
 PROD_CORE_ORIGINS=[ "https://dofxplus.netlify.app",
                     "https://webtrader.igmc.uk",
@@ -328,7 +329,7 @@ REST_USE_JWT = True
 
 #heroku gmail config
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
-
+#
 EMAIL_HOST_USER = env('EMAIL_HOST_USER')
 EMAIL_HOST_PASSWORD = env('EMAIL_HOST_PASSWORD')
 EMAIL_USE_TLS= True

@@ -37,10 +37,13 @@ class User(AbstractBaseUser, PermissionsMixin):
     EMAIL_FIELD = 'email'
     
     REQUIRED_FIELDS = []
+
+
     def get_wallet(self):
         """ Returns the users wallet.
         """
         return self.wallet if hasattr(self, 'wallet') else None
+
 
     # def get_full_name(self):
 

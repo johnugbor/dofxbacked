@@ -1,0 +1,353 @@
+[
+{'c': None, 'p': 3752.58, 's': 'BINANCE:ETHUSDT', 't': 1641094046201, 'v': 0.0079},
+{'c': None, 'p': 47362.15, 's': 'BINANCE:BTCUSDT', 't': 1641094046435, 'v': 0.00112},
+{'c': None, 'p': 3752.62, 's': 'BINANCE:ETHUSDT', 't': 1641094047094, 'v': 0.005}
+]
+[{'c': None, 'p': 47362.17, 's': 'BINANCE:BTCUSDT', 't': 1641094047777, 'v': 0.00189}]
+[{'c': None, 'p': 47362.17, 's': 'BINANCE:BTCUSDT', 't': 1641094048227, 'v': 0.00178}, {'c': None, 'p': 47362.17, 's': 'BINANCE:BTCUSDT', 't': 1641094048291, 'v': 0.00039}, {'c': None, 'p': 3752.62, 's': 'BINANCE:ETHUSDT', 't': 1641094048729, 'v': 0.1169}, {'c': None, 'p': 3752.62, 's': 'BINANCE:ETHUSDT', 't': 1641094048729, 'v': 0.2747}, {'c': None, 'p': 3752.62, 's': 'BINANCE:ETHUSDT', 't': 1641094048729, 'v': 0.587}, {'c': None, 'p': 3752.62, 's': 'BINANCE:ETHUSDT', 't': 1641094048729, 'v': 0.3067}, {'c': None, 'p': 3752.62, 's': 'BINANCE:ETHUSDT', 't': 1641094048729, 'v': 0.0471}, {'c': None, 'p': 47362.17, 's': 'BINANCE:BTCUSDT', 't': 1641094048764, 'v': 0.02533}, {'c': None, 'p': 47362.17, 's': 'BINANCE:BTCUSDT', 't': 1641094048927, 'v': 0.00393}, {'c': None, 'p': 47362.17, 's': 'BINANCE:BTCUSDT', 't': 1641094048927, 'v': 0.00102}]
+[{'c': None, 'p': 47362.18, 's': 'BINANCE:BTCUSDT', 't': 1641094050421, 'v': 0.00041}, {'c': None, 'p': 3752.61, 's': 'BINANCE:ETHUSDT', 't': 1641094050454, 'v': 0.0334}, {'c': None, 'p': 3752.57, 's': 'BINANCE:ETHUSDT', 't': 1641094050454, 'v': 0.0258}, {'c': None, 'p': 3751.7, 's': 'BINANCE:ETHUSDT', 't': 1641094050454, 'v': 0.1408}, {'c': None, 'p': 3751.71, 's': 'BINANCE:ETHUSDT', 't': 1641094050729, 'v': 0.0075}]
+[{'c': None, 'p': 47362.18, 's': 'BINANCE:BTCUSDT', 't': 1641094051192, 'v': 0.00106}, {'c': None, 'p': 47362.18, 's': 'BINANCE:BTCUSDT', 't': 1641094051192, 'v': 0.01248}, {'c': None, 'p': 47362.17, 's': 'BINANCE:BTCUSDT', 't': 1641094051304, 'v': 0.00735}, {'c': None, 'p': 3751.81, 's': 'BINANCE:ETHUSDT', 't': 1641094051657, 'v': 0.0621}, {'c': None, 'p': 3751.81, 's': 'BINANCE:ETHUSDT', 't': 1641094051966, 'v': 0.0609}, {'c': None, 'p': 3751.81, 's': 'BINANCE:ETHUSDT', 't': 1641094051966, 'v': 0.0782}]
+[{'c': None, 'p': 47362.29, 's': 'BINANCE:BTCUSDT', 't': 1641094052731, 'v': 0.00028}]
+[{'c': None, 'p': 47362.29, 's': 'BINANCE:BTCUSDT', 't': 1641094053276, 'v': 0.00041}, {'c': None, 'p': 47362.3, 's': 'BINANCE:BTCUSDT', 't': 1641094053661, 'v': 0.00977}]
+[{'c': None, 'p': 3751.84, 's': 'BINANCE:ETHUSDT', 't': 1641094054596, 'v': 0.0034}, {'c': None, 'p': 47362.3, 's': 'BINANCE:BTCUSDT', 't': 1641094054659, 'v': 0.00089}, {'c': None, 'p': 47362.3, 's': 'BINANCE:BTCUSDT', 't': 1641094054659, 'v': 0.00401}, {'c': None, 'p': 3751.83, 's': 'BINANCE:ETHUSDT', 't': 1641094054936, 'v': 0.0713}]
+[{'c': None, 'p': 47362.29, 's': 'BINANCE:BTCUSDT', 't': 1641094055162, 'v': 0.00141}, {'c': None, 'p': 3751.84, 's': 'BINANCE:ETHUSDT', 't': 1641094055482, 'v': 0.0171}, {'c': None, 'p': 47362.29, 's': 'BINANCE:BTCUSDT', 't': 1641094055543, 'v': 0.00091}, {'c': None, 'p': 47362.3, 's': 'BINANCE:BTCUSDT', 't': 1641094056151, 'v': 0.00194}]
+[{'c': None, 'p': 47362.29, 's': 'BINANCE:BTCUSDT', 't': 1641094056433, 'v': 0.00077}, {'c': None, 'p': 47362.29, 's': 'BINANCE:BTCUSDT', 't': 1641094056714, 'v': 0.00164}]
+[{'c': None, 'p': 47362.29, 's': 'BINANCE:BTCUSDT', 't': 1641094057278, 'v': 0.00559}, {'c': None, 'p': 47362.29, 's': 'BINANCE:BTCUSDT', 't': 1641094057278, 'v': 0.00916}]
+[{'c': None, 'p': 47362.29, 's': 'BINANCE:BTCUSDT', 't': 1641094058637, 'v': 0.00043}, {'c': None, 'p': 47362.3, 's': 'BINANCE:BTCUSDT', 't': 1641094058676, 'v': 0.00306}]
+[{'c': None, 'p': 47362.29, 's': 'BINANCE:BTCUSDT', 't': 1641094059891, 'v': 0.00079}, {'c': None, 'p': 3751.84, 's': 'BINANCE:ETHUSDT', 't': 1641094059946, 'v': 0.1195}, {'c': None, 'p': 47362.29, 's': 'BINANCE:BTCUSDT', 't': 1641094059959, 'v': 0.00079}]
+[{'c': None, 'p': 47362.29, 's': 'BINANCE:BTCUSDT', 't': 1641094060461, 'v': 0.00079}]
+[{'c': None, 'p': 3751.83, 's': 'BINANCE:ETHUSDT', 't': 1641094061275, 'v': 0.1356}, {'c': None, 'p': 3751.7, 's': 'BINANCE:ETHUSDT', 't': 1641094061275, 'v': 0.0891}, {'c': None, 'p': 3751.44, 's': 'BINANCE:ETHUSDT', 't': 1641094061275, 'v': 0.0503}, {'c': None, 'p': 3751.45, 's': 'BINANCE:ETHUSDT', 't': 1641094061327, 'v': 0.0119}, {'c': None, 'p': 3751.45, 's': 'BINANCE:ETHUSDT', 't': 1641094061374, 'v': 0.015}, {'c': None, 'p': 47362.29, 's': 'BINANCE:BTCUSDT', 't': 1641094061715, 'v': 0.06002}, {'c': None, 'p': 47362.29, 's': 'BINANCE:BTCUSDT', 't': 1641094061982, 'v': 0.00051}, {'c': None, 'p': 47362.29, 's': 'BINANCE:BTCUSDT', 't': 1641094062143, 'v': 0.0006}]
+[{'c': None, 'p': 47362.29, 's': 'BINANCE:BTCUSDT', 't': 1641094062189, 'v': 0.00159}, {'c': None, 'p': 3751.45, 's': 'BINANCE:ETHUSDT', 't': 1641094062440, 'v': 0.0059}, {'c': None, 'p': 47362.29, 's': 'BINANCE:BTCUSDT', 't': 1641094063172, 'v': 0.00102}]
+[{'c': None, 'p': 47362.29, 's': 'BINANCE:BTCUSDT', 't': 1641094063492, 'v': 0.00093}, {'c': None, 'p': 3751.45, 's': 'BINANCE:ETHUSDT', 't': 1641094064090, 'v': 0.0039}, {'c': None, 'p': 3751.45, 's': 'BINANCE:ETHUSDT', 't': 1641094064106, 'v': 0.0105}]
+[{'c': None, 'p': 47362.29, 's': 'BINANCE:BTCUSDT', 't': 1641094064344, 'v': 0.00026}, {'c': None, 'p': 3751.44, 's': 'BINANCE:ETHUSDT', 't': 1641094064913, 'v': 0.003}, {'c': None, 'p': 3751.44, 's': 'BINANCE:ETHUSDT', 't': 1641094064913, 'v': 2.662}, {'c': None, 'p': 3751.44, 's': 'BINANCE:ETHUSDT', 't': 1641094064913, 'v': 3.7}, {'c': None, 'p': 3751.44, 's': 'BINANCE:ETHUSDT', 't': 1641094064913, 'v': 1.713}]
+[{'c': None, 'p': 47362.3, 's': 'BINANCE:BTCUSDT', 't': 1641094065296, 'v': 0.03}, {'c': None, 'p': 47362.3, 's': 'BINANCE:BTCUSDT', 't': 1641094065364, 'v': 0.00408}, {'c': None, 'p': 47362.31, 's': 'BINANCE:BTCUSDT', 't': 1641094065364, 'v': 0.00316}, {'c': None, 'p': 47362.32, 's': 'BINANCE:BTCUSDT', 't': 1641094065364, 'v': 0.00603}, {'c': None, 'p': 47362.32, 's': 'BINANCE:BTCUSDT', 't': 1641094065364, 'v': 0.00443}, {'c': None, 'p': 47362.32, 's': 'BINANCE:BTCUSDT', 't': 1641094065364, 'v': 0.00635}, {'c': None, 'p': 47365.55, 's': 'BINANCE:BTCUSDT', 't': 1641094065364, 'v': 0.00595}, {'c': None, 'p': 47365.54, 's': 'BINANCE:BTCUSDT', 't': 1641094065406, 'v': 0.0068}, {'c': None, 'p': 47365.54, 's': 'BINANCE:BTCUSDT', 't': 1641094066173, 'v': 1e-05}, {'c': None, 'p': 47365.54, 's': 'BINANCE:BTCUSDT', 't': 1641094066173, 'v': 0.00523}]
+[{'c': None, 'p': 47365.54, 's': 'BINANCE:BTCUSDT', 't': 1641094067838, 'v': 0.00087}]
+[{'c': None, 'p': 47362.29, 's': 'BINANCE:BTCUSDT', 't': 1641094068305, 'v': 0.0109}, {'c': None, 'p': 3751.45, 's': 'BINANCE:ETHUSDT', 't': 1641094068937, 'v': 0.0235}, {'c': None, 'p': 3751.45, 's': 'BINANCE:ETHUSDT', 't': 1641094068938, 'v': 0.1152}, {'c': None, 'p': 3751.45, 's': 'BINANCE:ETHUSDT', 't': 1641094068938, 'v': 0.5186}, {'c': None, 'p': 3751.45, 's': 'BINANCE:ETHUSDT', 't': 1641094068963, 'v': 0.1046}]
+[{'c': None, 'p': 3751.45, 's': 'BINANCE:ETHUSDT', 't': 1641094069575, 'v': 0.019}, {'c': None, 'p': 47362.3, 's': 'BINANCE:BTCUSDT', 't': 1641094069924, 'v': 0.00135}, {'c': None, 'p': 47362.3, 's': 'BINANCE:BTCUSDT', 't': 1641094070135, 'v': 0.00027}]
+[{'c': None, 'p': 3751.45, 's': 'BINANCE:ETHUSDT', 't': 1641094070399, 'v': 0.0455}, {'c': None, 'p': 3751.44, 's': 'BINANCE:ETHUSDT', 't': 1641094071072, 'v': 0.0439}, {'c': None, 'p': 47362.29, 's': 'BINANCE:BTCUSDT', 't': 1641094071113, 'v': 0.00203}]
+[{'c': None, 'p': 47362.3, 's': 'BINANCE:BTCUSDT', 't': 1641094071296, 'v': 0.00248}, {'c': None, 'p': 47362.3, 's': 'BINANCE:BTCUSDT', 't': 1641094071793, 'v': 0.00168}]
+[{'c': None, 'p': 47362.29, 's': 'BINANCE:BTCUSDT', 't': 1641094072576, 'v': 0.00063}, {'c': None, 'p': 47362.29, 's': 'BINANCE:BTCUSDT', 't': 1641094072587, 'v': 0.00244}, {'c': None, 'p': 47362.29, 's': 'BINANCE:BTCUSDT', 't': 1641094072587, 'v': 0.00396}, {'c': None, 'p': 3751.44, 's': 'BINANCE:ETHUSDT', 't': 1641094072626, 'v': 0.4561}, {'c': None, 'p': 3751.44, 's': 'BINANCE:ETHUSDT', 't': 1641094072626, 'v': 0.123}, {'c': None, 'p': 3751.44, 's': 'BINANCE:ETHUSDT', 't': 1641094072626, 'v': 0.0532}, {'c': None, 'p': 3751.44, 's': 'BINANCE:ETHUSDT', 't': 1641094072626, 'v': 5}, {'c': None, 'p': 3751.44, 's': 'BINANCE:ETHUSDT', 't': 1641094072626, 'v': 2}, {'c': None, 'p': 3751.44, 's': 'BINANCE:ETHUSDT', 't': 1641094072626, 'v': 0.8607}, {'c': None, 'p': 3751.45, 's': 'BINANCE:ETHUSDT', 't': 1641094072658, 'v': 5.7811}]
+[{'c': None, 'p': 3751.45, 's': 'BINANCE:ETHUSDT', 't': 1641094072658, 'v': 0.1537}, {'c': None, 'p': 3751.45, 's': 'BINANCE:ETHUSDT', 't': 1641094072658, 'v': 0.3054}, {'c': None, 'p': 3751.45, 's': 'BINANCE:ETHUSDT', 't': 1641094072658, 'v': 1.6435}, {'c': None, 'p': 3751.49, 's': 'BINANCE:ETHUSDT', 't': 1641094072658, 'v': 0.0358}, {'c': None, 'p': 3751.5, 's': 'BINANCE:ETHUSDT', 't': 1641094072658, 'v': 0.0054}, {'c': None, 'p': 3751.83, 's': 'BINANCE:ETHUSDT', 't': 1641094072658, 'v': 0.4829}, {'c': None, 'p': 3751.82, 's': 'BINANCE:ETHUSDT', 't': 1641094072675, 'v': 0.0678}, {'c': None, 'p': 3751.45, 's': 'BINANCE:ETHUSDT', 't': 1641094072675, 'v': 4.1683}, {'c': None, 'p': 3751.45, 's': 'BINANCE:ETHUSDT', 't': 1641094072677, 'v': 4.2361}, {'c': None, 'p': 47362.29, 's': 'BINANCE:BTCUSDT', 't': 1641094072957, 'v': 0.0043}]
+[{'c': None, 'p': 47362.3, 's': 'BINANCE:BTCUSDT', 't': 1641094073700, 'v': 0.04}]
+[{'c': None, 'p': 3751.62, 's': 'BINANCE:ETHUSDT', 't': 1641094074198, 'v': 0.1064}, {'c': None, 'p': 3751.77, 's': 'BINANCE:ETHUSDT', 't': 1641094074198, 'v': 1.4267}, {'c': None, 'p': 3751.77, 's': 'BINANCE:ETHUSDT', 't': 1641094074198, 'v': 0.4282}, {'c': None, 'p': 3751.8, 's': 'BINANCE:ETHUSDT', 't': 1641094074198, 'v': 0.7047}, {'c': None, 'p': 47362.3, 's': 'BINANCE:BTCUSDT', 't': 1641094074381, 'v': 0.00342}, {'c': None, 'p': 47362.3, 's': 'BINANCE:BTCUSDT', 't': 1641094074392, 'v': 0.00215}, {'c': None, 'p': 47362.3, 's': 'BINANCE:BTCUSDT', 't': 1641094074392, 'v': 0.00682}, {'c': None, 'p': 47362.29, 's': 'BINANCE:BTCUSDT', 't': 1641094074399, 'v': 0.00554}, {'c': None, 'p': 47362.3, 's': 'BINANCE:BTCUSDT', 't': 1641094074452, 'v': 0.00444}, {'c': None, 'p': 47362.3, 's': 'BINANCE:BTCUSDT', 't': 1641094074488, 'v': 0.00233}]
+[{'c': None, 'p': 47362.3, 's': 'BINANCE:BTCUSDT', 't': 1641094074584, 'v': 0.0044}, {'c': None, 'p': 47362.29, 's': 'BINANCE:BTCUSDT', 't': 1641094074588, 'v': 0.04667}, {'c': None, 'p': 47362.3, 's': 'BINANCE:BTCUSDT', 't': 1641094074605, 'v': 0.04686}, {'c': None, 'p': 47362.3, 's': 'BINANCE:BTCUSDT', 't': 1641094074711, 'v': 0.00317}, {'c': None, 'p': 47362.3, 's': 'BINANCE:BTCUSDT', 't': 1641094074714, 'v': 0.00239}, {'c': None, 'p': 47362.3, 's': 'BINANCE:BTCUSDT', 't': 1641094074727, 'v': 0.00555}, {'c': None, 'p': 47362.3, 's': 'BINANCE:BTCUSDT', 't': 1641094074879, 'v': 0.01601}, {'c': None, 'p': 47362.3, 's': 'BINANCE:BTCUSDT', 't': 1641094075039, 'v': 0.00298}, {'c': None, 'p': 47362.29, 's': 'BINANCE:BTCUSDT', 't': 1641094075071, 'v': 0.00811}, {'c': None, 'p': 47362.3, 's': 'BINANCE:BTCUSDT', 't': 1641094075085, 'v': 0.00258}]
+[{'c': None, 'p': 47362.3, 's': 'BINANCE:BTCUSDT', 't': 1641094075100, 'v': 0.00559}]
+
+
+ {'c': ['1', '8', '12'], 'p': 3336.18, 's': 'AMZN', 't': 1641313901699, 'v': 1}, {'c': ['1', '12'], 'p': 3336.4, 's': 'AMZN', 't': 1641313901699, 'v': 1}, {'c': ['1', '12'], 'p': 3336.41, 's': 'AMZN', 't': 1641313901699, 'v': 38}, {'c': ['1', '12'], 'p': 3336, 's': 'AMZN', 't': 1641313901699, 'v': 19}, {'c': ['1', '12'], 'p': 3336.35, 's': 'AMZN', 't': 1641313901699, 'v': 15}, {'c': ['1', '12'], 'p': 3336.47, 's': 'AMZN', 't': 1641313901699, 'v': 1}, {'c': ['1', '12'], 'p': 3336.2, 's': 'AMZN', 't': 1641313901699, 'v': 1}], 'type': 'trade'}
+{'data':
+[
+    {'c': ['1', '12'], 'p': 3336, 's': 'AMZN', 't': 1641313901699, 'v': 1},
+    {'c': ['1', '12'], 'p': 3336.04, 's': 'AMZN', 't': 1641313901700, 'v': 1},
+    {'c': ['1'], 'p': 3336, 's': 'AMZN', 't': 1641313901701, 'v': 100},
+    {'c': ['1', '12'], 'p': 179.81, 's': 'AAPL', 't': 1641313901749, 'v': 9},
+    {'c': ['1', '8', '12'], 'p': 3335.73, 's': 'AMZN', 't': 1641313901765, 'v': 1},
+    {'c': None, 'p': 46675.64, 's': 'BINANCE:BTCUSDT', 't': 1641313901706, 'v': 0.00138},
+    {'c': ['1', '8', '12'], 'p': 3335.73, 's': 'AMZN', 't': 1641313901765, 'v': 1},
+    {'c': ['1'], 'p': 179.81, 's': 'AAPL', 't': 1641313901767, 'v': 100},
+    {'c': ['1', '12'], 'p': 179.81, 's': 'AAPL', 't': 1641313901767, 'v': 20},
+    {'c': ['1', '12'], 'p': 179.81, 's': 'AAPL', 't': 1641313901767, 'v': 3}
+    ],
+     'type': 'trade'
+ }
+{'data': [{'c': ['1', '12'], 'p': 179.81, 's': 'AAPL', 't': 1641313901767, 'v': 77}, {'c': ['1', '8', '12'], 'p': 179.81, 's': 'AAPL', 't': 1641313901767, 'v': 23}, {'c': ['1', '12'], 'p': 179.81, 's': 'AAPL', 't': 1641313901767, 'v': 99}, {'c': ['1', '12'], 'p': 179.81, 's': 'AAPL', 't': 1641313901767, 'v': 1}, {'c': ['1', '8', '12'], 'p': 179.81, 's': 'AAPL', 't': 1641313901768, 'v': 1}, {'c': ['1'], 'p': 179.81, 's': 'AAPL', 't': 1641313901768, 'v': 100}, {'c': ['1', '8'], 'p': 179.81, 's': 'AAPL', 't': 1641313901768, 'v': 100}, {'c': ['1', '8'], 'p': 179.81, 's': 'AAPL', 't': 1641313901768, 'v': 100}, {'c': ['1', '8', '12'], 'p': 179.81, 's': 'AAPL', 't': 1641313901768, 'v': 9}, {'c': ['1', '8', '12'], 'p': 179.81, 's': 'AAPL', 't': 1641313901768, 'v': 90}], 'type': 'trade'}
+{'data': [{'c': ['1', '8'], 'p': 179.81, 's': 'AAPL', 't': 1641313901768, 'v': 100}, {'c': ['1', '12'], 'p': 179.81, 's': 'AAPL', 't': 1641313901768, 'v': 9}, {'c': ['1', '12'], 'p': 179.81, 's': 'AAPL', 't': 1641313901768, 'v': 9}, {'c': ['1', '8'], 'p': 179.81, 's': 'AAPL', 't': 1641313901768, 'v': 100}, {'c': ['1', '8'], 'p': 179.81, 's': 'AAPL', 't': 1641313901768, 'v': 400}, {'c': ['1'], 'p': 179.81, 's': 'AAPL', 't': 1641313901768, 'v': 100}, {'c': ['1'], 'p': 179.81, 's': 'AAPL', 't': 1641313901768, 'v': 100}, {'c': ['1', '12'], 'p': 179.81, 's': 'AAPL', 't': 1641313901768, 'v': 75}, {'c': ['1', '8'], 'p': 179.81, 's': 'AAPL', 't': 1641313901768, 'v': 100}, {'c': ['1', '8', '12'], 'p': 179.81, 's': 'AAPL', 't': 1641313901768, 'v': 9}], 'type': 'trade'}
+{'data': [{'c': ['1', '12'], 'p': 179.81, 's': 'AAPL', 't': 1641313901768, 'v': 9}, {'c': ['1', '8', '12'], 'p': 179.81, 's': 'AAPL', 't': 1641313901768, 'v': 34}, {'c': ['1', '8', '12'], 'p': 179.81, 's': 'AAPL', 't': 1641313901769, 'v': 14}, {'c': ['1', '8', '12'], 'p': 179.81, 's': 'AAPL', 't': 1641313901769, 'v': 46}, {'c': ['1', '12'], 'p': 179.81, 's': 'AAPL', 't': 1641313901769, 'v': 11}, {'c': ['1', '12'], 'p': 179.835, 's': 'AAPL', 't': 1641313900852, 'v': 1}, {'c': ['1', '12'], 'p': 179.8372, 's': 'AAPL', 't': 1641313901139, 'v': 5}, {'c': ['1', '12'], 'p': 3336.91, 's': 'AMZN', 't': 1641313901160, 'v': 2}, {'c': ['1', '12'], 'p': 3336.91, 's': 'AMZN', 't': 1641313901160, 'v': 2}, {'c': ['1', '12'], 'p': 179.8384, 's': 'AAPL', 't': 1641313901235, 'v': 1}], 'type': 'trade'}
+{'data': [{'c': ['1', '8'], 'p': 179.83, 's': 'AAPL', 't': 1641313901293, 'v': 100}, {'c': ['1', '8'], 'p': 179.83, 's': 'AAPL', 't': 1641313901293, 'v': 100}, {'c': ['1', '8'], 'p': 179.83, 's': 'AAPL', 't': 1641313901293, 'v': 100}, {'c': ['1', '8'], 'p': 179.83, 's': 'AAPL', 't': 1641313901293, 'v': 100}, {'c': ['1', '12'], 'p': 3336.3633, 's': 'AMZN', 't': 1641313901292, 'v': 2}, {'c': ['1', '12'], 'p': 3336.3633, 's': 'AMZN', 't': 1641313901292, 'v': 2}, {'c': None, 'p': 1.12938, 's': 'IC MARKETS:1', 't': 1641313892941, 'v': 0}, {'c': ['1', '12'], 'p': 179.83, 's': 'AAPL', 't': 1641313901393, 'v': 1}, {'c': ['1', '12'], 'p': 179.81, 's': 'AAPL', 't': 1641313901440, 'v': 1}, {'c': ['1', '12'], 'p': 179.815, 's': 'AAPL', 't': 1641313901480, 'v': 27}], 'type': 'trade'}
+{'data': [{'c': None, 'p': 3841.35, 's': 'BINANCE:ETHUSDT', 't': 1641313901440, 'v': 0.0135}, {'c': ['1', '12'], 'p': 179.8199, 's': 'AAPL', 't': 1641313901511, 'v': 10}, {'c': None, 'p': 46675.64, 's': 'BINANCE:BTCUSDT', 't': 1641313901472, 'v': 0.00265}, {'c': ['1'], 'p': 179.82, 's': 'AAPL', 't': 1641313901814, 'v': 580}, {'c': ['1', '12'], 'p': 179.82, 's': 'AAPL', 't': 1641313901836, 'v': 1}, {'c': ['1'], 'p': 179.815, 's': 'AAPL', 't': 1641313901854, 'v': 100}], 'type': 'trade'}
+{'data': [{'c': ['1'], 'p': 179.815, 's': 'AAPL', 't': 1641313901865, 'v': 100}, {'c': ['1', '12'], 'p': 179.815, 's': 'AAPL', 't': 1641313901873, 'v': 1}, {'c': None, 'p': 46675.65, 's': 'BINANCE:BTCUSDT', 't': 1641313901898, 'v': 0.00024}, {'c': ['1', '8'], 'p': 179.82, 's': 'AAPL', 't': 1641313901987, 'v': 100}, {'c': ['1', '8'], 'p': 179.82, 's': 'AAPL', 't': 1641313901987, 'v': 100}, {'c': ['1', '8'], 'p': 179.82, 's': 'AAPL', 't': 1641313901987, 'v': 100}, {'c': ['1'], 'p': 179.815, 's': 'AAPL', 't': 1641313901774, 'v': 100}, {'c': None, 'p': 1.1294, 's': 'IC MARKETS:1', 't': 1641313893608, 'v': 0}, {'c': ['1', '12'], 'p': 179.8153, 's': 'AAPL', 't': 1641313902154, 'v': 2}, {'c': ['1', '12'], 'p': 3336.25, 's': 'AMZN', 't': 1641313902178, 'v': 1}], 'type': 'trade'}
+{'data': [{'c': ['1', '12'], 'p': 3336.25, 's': 'AMZN', 't': 1641313902178, 'v': 1}, {'c': ['1', '12'], 'p': 179.82, 's': 'AAPL', 't': 1641313902219, 'v': 25}, {'c': ['1'], 'p': 179.81, 's': 'AAPL', 't': 1641313902284, 'v': 100}, {'c': ['1'], 'p': 179.81, 's': 'AAPL', 't': 1641313902284, 'v': 100}, {'c': ['1'], 'p': 179.81, 's': 'AAPL', 't': 1641313902284, 'v': 100}, {'c': ['1'], 'p': 179.81, 's': 'AAPL', 't': 1641313902284, 'v': 100}, {'c': ['1'], 'p': 179.81, 's': 'AAPL', 't': 1641313902284, 'v': 100}, {'c': ['1'], 'p': 179.81, 's': 'AAPL', 't': 1641313902286, 'v': 100}, {'c': ['1'], 'p': 179.81, 's': 'AAPL', 't': 1641313902286, 'v': 100}, {'c': ['1'], 'p': 179.81, 's': 'AAPL', 't': 1641313902286, 'v': 100}], 'type': 'trade'}
+{'data': [{'c': ['1'], 'p': 179.815, 's': 'AAPL', 't': 1641313902286, 'v': 100}, {'c': ['1'], 'p': 179.81, 's': 'AAPL', 't': 1641313902286, 'v': 100}, {'c': ['1'], 'p': 179.81, 's': 'AAPL', 't': 1641313902286, 'v': 100}, {'c': ['1', '8', '12'], 'p': 179.82, 's': 'AAPL', 't': 1641313902286, 'v': 18}, {'c': ['1'], 'p': 179.82, 's': 'AAPL', 't': 1641313902288, 'v': 320}, {'c': ['1', '12'], 'p': 3336.195, 's': 'AMZN', 't': 1641313902255, 'v': 1}, {'c': ['1', '12'], 'p': 3336.195, 's': 'AMZN', 't': 1641313902255, 'v': 1}, {'c': ['1'], 'p': 179.8192, 's': 'AAPL', 't': 1641313902514, 'v': 2212}, {'c': ['1'], 'p': 179.82, 's': 'AAPL', 't': 1641313902511, 'v': 100}, {'c': ['1'], 'p': 179.82, 's': 'AAPL', 't': 1641313902511, 'v': 188}], 'type': 'trade'}
+{'data': [{'c': ['1'], 'p': 179.8144, 's': 'AAPL', 't': 1641313902530, 'v': 200}, {'c': ['1', '12'], 'p': 3336.195, 's': 'AMZN', 't': 1641313902595, 'v': 5}, {'c': ['1', '12'], 'p': 3336.195, 's': 'AMZN', 't': 1641313902595, 'v': 5}, {'c': ['1', '12'], 'p': 179.8185, 's': 'AAPL', 't': 1641313902630, 'v': 4}, {'c': ['1', '8'], 'p': 179.82, 's': 'AAPL', 't': 1641313902698, 'v': 100}, {'c': None, 'p': 46675.64, 's': 'BINANCE:BTCUSDT', 't': 1641313902642, 'v': 0.00034}, {'c': ['1', '8', '12'], 'p': 3335.7, 's': 'AMZN', 't': 1641313902734, 'v': 1}, {'c': ['1', '8', '12'], 'p': 3335.7, 's': 'AMZN', 't': 1641313902734, 'v': 1}, {'c': ['1', '12'], 'p': 179.82, 's': 'AAPL', 't': 1641313902656, 'v': 1}, {'c': None, 'p': 46675.65, 's': 'BINANCE:BTCUSDT', 't': 1641313902721, 'v': 0.00819}], 'type': 'trade'}
+{'data': [{'c': ['1', '8', '12'], 'p': 179.82, 's': 'AAPL', 't': 1641313902835, 'v': 36}, {'c': ['1', '8', '12'], 'p': 179.82, 's': 'AAPL', 't': 1641313902835, 'v': 28}, {'c': ['1', '8', '12'], 'p': 179.82, 's': 'AAPL', 't': 1641313902835, 'v': 36}, {'c': ['1', '8'], 'p': 179.82, 's': 'AAPL', 't': 1641313902835, 'v': 100}, {'c': ['1', '8'], 'p': 179.82, 's': 'AAPL', 't': 1641313902835, 'v': 100}, {'c': ['1', '8'], 'p': 179.82, 's': 'AAPL', 't': 1641313902835, 'v': 100}, {'c': ['1', '8'], 'p': 179.82, 's': 'AAPL', 't': 1641313902835, 'v': 100}, {'c': ['1', '8'], 'p': 179.82, 's': 'AAPL', 't': 1641313902835, 'v': 100}, {'c': ['1'], 'p': 179.82, 's': 'AAPL', 't': 1641313902836, 'v': 100}, {'c': ['1'], 'p': 179.82, 's': 'AAPL', 't': 1641313902836, 'v': 100}], 'type': 'trade'}
+{'data': [{'c': ['1', '8', '12'], 'p': 179.83, 's': 'AAPL', 't': 1641313902839, 'v': 5}, {'c': ['1', '12'], 'p': 179.82, 's': 'AAPL', 't': 1641313902840, 'v': 5}, {'c': None, 'p': 46675.64, 's': 'BINANCE:BTCUSDT', 't': 1641313902781, 'v': 0.00565}], 'type': 'trade'}
+{'data': [{'c': None, 'p': 1.12941, 's': 'IC MARKETS:1', 't': 1641313894895, 'v': 0}, {'c': [], 'p': 179.8, 's': 'AAPL', 't': 1641313883347, 'v': 100}, {'c': ['1', '12'], 'p': 179.82, 's': 'AAPL', 't': 1641313903001, 'v': 1}, {'c': ['1', '12'], 'p': 3336.9799, 's': 'AMZN', 't': 1641313903040, 'v': 2}, {'c': ['1', '12'], 'p': 3336.9799, 's': 'AMZN', 't': 1641313903040, 'v': 2}, {'c': ['1', '12'], 'p': 179.82, 's': 'AAPL', 't': 1641313903057, 'v': 1}, {'c': None, 'p': 3841.35, 's': 'BINANCE:ETHUSDT', 't': 1641313903005, 'v': 0.0945}, {'c': ['1', '12'], 'p': 179.83, 's': 'AAPL', 't': 1641313903100, 'v': 1}, {'c': ['1', '12'], 'p': 179.825, 's': 'AAPL', 't': 1641313903224, 'v': 1}, {'c': ['1', '8', '12'], 'p': 179.82, 's': 'AAPL', 't': 1641313903266, 'v': 18}], 'type': 'trade'}
+{'data': [{'c': ['1', '8', '12'], 'p': 179.82, 's': 'AAPL', 't': 1641313903266, 'v': 18}, {'c': None, 'p': 46675.65, 's': 'BINANCE:BTCUSDT', 't': 1641313903215, 'v': 0.00361}, {'c': ['1', '12'], 'p': 179.8111, 's': 'AAPL', 't': 1641313903330, 'v': 4}, {'c': ['1'], 'p': 179.82, 's': 'AAPL', 't': 1641313903354, 'v': 500}, {'c': ['1', '8'], 'p': 179.82, 's': 'AAPL', 't': 1641313903363, 'v': 100}, {'c': ['1', '8'], 'p': 179.82, 's': 'AAPL', 't': 1641313903363, 'v': 100}, {'c': ['1', '8'], 'p': 179.82, 's': 'AAPL', 't': 1641313903363, 'v': 100}, {'c': ['1', '8'], 'p': 179.82, 's': 'AAPL', 't': 1641313903363, 'v': 100}, {'c': ['1', '8', '12'], 'p': 179.82, 's': 'AAPL', 't': 1641313903382, 'v': 87}, {'c': ['1', '12'], 'p': 179.82, 's': 'AAPL', 't': 1641313903382, 'v': 5}], 'type': 'trade'}
+{'data': [{'c': ['1', '8', '12'], 'p': 3335.66, 's': 'AMZN', 't': 1641313903389, 'v': 10}, {'c': ['1', '8', '12'], 'p': 3335.66, 's': 'AMZN', 't': 1641313903389, 'v': 10}, {'c': ['1', '12'], 'p': 179.82, 's': 'AAPL', 't': 1641313903414, 'v': 1}, {'c': ['1', '12'], 'p': 179.83, 's': 'AAPL', 't': 1641313903708, 'v': 13}, {'c': ['1'], 'p': 179.83, 's': 'AAPL', 't': 1641313903708, 'v': 487}, {'c': ['1', '12'], 'p': 179.825, 's': 'AAPL', 't': 1641313903218, 'v': 1}, {'c': ['1', '8', '12'], 'p': 179.82, 's': 'AAPL', 't': 1641313903448, 'v': 4}, {'c': ['1', '8', '12'], 'p': 179.82, 's': 'AAPL', 't': 1641313903448, 'v': 87}, {'c': ['1', '8'], 'p': 179.82, 's': 'AAPL', 't': 1641313903448, 'v': 109}, {'c': ['1', '8', '12'], 'p': 179.82, 's': 'AAPL', 't': 1641313903448, 'v': 1}], 'type': 'trade'}
+{'data': [{'c': ['1', '12'], 'p': 3334.3, 's': 'AMZN', 't': 1641313903778, 'v': 1}, {'c': ['1', '12'], 'p': 3334.3, 's': 'AMZN', 't': 1641313903778, 'v': 1}, {'c': ['1', '12'], 'p': 179.8256, 's': 'AAPL', 't': 1641313903816, 'v': 53}, {'c': None, 'p': 3841.34, 's': 'BINANCE:ETHUSDT', 't': 1641313903748, 'v': 0.0028}, {'c': None, 'p': 3841.34, 's': 'BINANCE:ETHUSDT', 't': 1641313903748, 'v': 0.3272}, {'c': ['1', '8', '12'], 'p': 179.82, 's': 'AAPL', 't': 1641313903457, 'v': 96}, {'c': ['1', '8'], 'p': 179.82, 's': 'AAPL', 't': 1641313903457, 'v': 100}, {'c': ['1', '12'], 'p': 179.83, 's': 'AAPL', 't': 1641313903470, 'v': 81}, {'c': ['1', '12'], 'p': 179.8121, 's': 'AAPL', 't': 1641313903473, 'v': 8}, {'c': ['1'], 'p': 179.81, 's': 'AAPL', 't': 1641313903485, 'v': 100}], 'type': 'trade'}
+{'data': [{'c': ['1', '12'], 'p': 179.81, 's': 'AAPL', 't': 1641313903485, 'v': 75}, {'c': ['1'], 'p': 179.81, 's': 'AAPL', 't': 1641313903485, 'v': 100}, {'c': ['1', '8'], 'p': 179.81, 's': 'AAPL', 't': 1641313903485, 'v': 100}, {'c': ['1', '8'], 'p': 179.81, 's': 'AAPL', 't': 1641313903485, 'v': 324}, {'c': ['1', '8'], 'p': 179.81, 's': 'AAPL', 't': 1641313903485, 'v': 100}, {'c': ['1', '12'], 'p': 179.815, 's': 'AAPL', 't': 1641313903489, 'v': 10}, {'c': ['1', '12'], 'p': 179.81, 's': 'AAPL', 't': 1641313903493, 'v': 25}, {'c': ['1', '12'], 'p': 179.81, 's': 'AAPL', 't': 1641313903493, 'v': 75}, {'c': None, 'p': 46675.65, 's': 'BINANCE:BTCUSDT', 't': 1641313903431, 'v': 0.00203}, {'c': ['1', '12'], 'p': 179.82, 's': 'AAPL', 't': 1641313903499, 'v': 96}], 'type': 'trade'}
+{'data': [{'c': ['1', '8', '12'], 'p': 179.82, 's': 'AAPL', 't': 1641313903499, 'v': 4}, {'c': ['1'], 'p': 179.82, 's': 'AAPL', 't': 1641313903499, 'v': 100}, {'c': ['1', '12'], 'p': 179.82, 's': 'AAPL', 't': 1641313903523, 'v': 41}, {'c': None, 'p': 3841.35, 's': 'BINANCE:ETHUSDT', 't': 1641313903771, 'v': 0.0183}, {'c': None, 'p': 3841.35, 's': 'BINANCE:ETHUSDT', 't': 1641313903790, 'v': 0.0041}], 'type': 'trade'}
+{'data': [{'c': ['1', '8', '12'], 'p': 179.83, 's': 'AAPL', 't': 1641313903877, 'v': 10}, {'c': ['1', '12'], 'p': 179.82, 's': 'AAPL', 't': 1641313903926, 'v': 1}, {'c': ['1'], 'p': 179.8294, 's': 'AAPL', 't': 1641313904011, 'v': 250}, {'c': ['1', '8', '12'], 'p': 3335.66, 's': 'AMZN', 't': 1641313904066, 'v': 79}, {'c': ['1', '8', '12'], 'p': 3335.66, 's': 'AMZN', 't': 1641313904066, 'v': 79}, {'c': ['1'], 'p': 179.82, 's': 'AAPL', 't': 1641313904069, 'v': 100}, {'c': ['1'], 'p': 179.82, 's': 'AAPL', 't': 1641313904069, 'v': 100}, {'c': ['1', '8', '12'], 'p': 179.82, 's': 'AAPL', 't': 1641313904069, 'v': 19}, {'c': ['12'], 'p': 179.81, 's': 'AAPL', 't': 1641313886707, 'v': 10}, {'c': ['1', '8', '12'], 'p': 3336.03, 's': 'AMZN', 't': 1641313904304, 'v': 3}], 'type': 'trade'}
+{'data': [{'c': None, 'p': 1.1294, 's': 'IC MARKETS:1', 't': 1641313897505, 'v': 0}, {'c': None, 'p': 46675.65, 's': 'BINANCE:BTCUSDT', 't': 1641313904306, 'v': 0.01588}, {'c': None, 'p': 46675.65, 's': 'BINANCE:BTCUSDT', 't': 1641313904306, 'v': 0.00943}, {'c': None, 'p': 46675.64, 's': 'BINANCE:BTCUSDT', 't': 1641313904330, 'v': 0.00478}, {'c': None, 'p': 46675.64, 's': 'BINANCE:BTCUSDT', 't': 1641313904330, 'v': 0.00973}, {'c': None, 'p': 46675.64, 's': 'BINANCE:BTCUSDT', 't': 1641313904330, 'v': 0.01077}, {'c': None, 'p': 46675.65, 's': 'BINANCE:BTCUSDT', 't': 1641313904357, 'v': 0.02524}, {'c': ['1', '8', '12'], 'p': 3336.03, 's': 'AMZN', 't': 1641313904304, 'v': 3}, {'c': ['1', '12'], 'p': 179.81, 's': 'AAPL', 't': 1641313904336, 'v': 22}, {'c': ['1', '8'], 'p': 179.82, 's': 'AAPL', 't': 1641313904395, 'v': 100}], 'type': 'trade'}
+{'data': [{'c': ['1', '8'], 'p': 179.82, 's': 'AAPL', 't': 1641313904408, 'v': 100}, {'c': ['1', '8'], 'p': 179.82, 's': 'AAPL', 't': 1641313904408, 'v': 100}, {'c': ['1'], 'p': 179.82, 's': 'AAPL', 't': 1641313904426, 'v': 100}, {'c': None, 'p': 46675.64, 's': 'BINANCE:BTCUSDT', 't': 1641313904595, 'v': 0.00249}, {'c': None, 'p': 46675.64, 's': 'BINANCE:BTCUSDT', 't': 1641313904666, 'v': 0.00832}, {'c': None, 'p': 3841, 's': 'BINANCE:ETHUSDT', 't': 1641313904667, 'v': 0.5}, {'c': None, 'p': 46675.64, 's': 'BINANCE:BTCUSDT', 't': 1641313904705, 'v': 0.01535}, {'c': None, 'p': 46675.64, 's': 'BINANCE:BTCUSDT', 't': 1641313904729, 'v': 0.00423}, {'c': ['1', '12'], 'p': 3336.6599, 's': 'AMZN', 't': 1641313904829, 'v': 1}, {'c': ['1', '12'], 'p': 3336.6599, 's': 'AMZN', 't': 1641313904829, 'v': 1}], 'type': 'trade'}
+{'data': [{'c': ['1'], 'p': 179.82, 's': 'AAPL', 't': 1641313904867, 'v': 100}, {'c': ['1', '12'], 'p': 179.8299, 's': 'AAPL', 't': 1641313903627, 'v': 5}, {'c': ['1', '12'], 'p': 179.83, 's': 'AAPL', 't': 1641313904952, 'v': 1}, {'c': ['1'], 'p': 179.825, 's': 'AAPL', 't': 1641313904981, 'v': 125}, {'c': ['1', '12'], 'p': 179.824, 's': 'AAPL', 't': 1641313905008, 'v': 13}, {'c': None, 'p': 46675.64, 's': 'BINANCE:BTCUSDT', 't': 1641313904943, 'v': 0.0014}, {'c': ['1', '12'], 'p': 179.8218, 's': 'AAPL', 't': 1641313905096, 'v': 8}, {'c': None, 'p': 46675.65, 's': 'BINANCE:BTCUSDT', 't': 1641313905031, 'v': 0.00314}, {'c': ['1', '12'], 'p': 179.82, 's': 'AAPL', 't': 1641313905182, 'v': 1}, {'c': ['1'], 'p': 179.825, 's': 'AAPL', 't': 1641313905182, 'v': 100}], 'type': 'trade'}
+{'data': [{'c': ['1', '12'], 'p': 179.82, 's': 'AAPL', 't': 1641313905182, 'v': 57}, {'c': ['1'], 'p': 179.82, 's': 'AAPL', 't': 1641313905182, 'v': 100}, {'c': ['1'], 'p': 179.82, 's': 'AAPL', 't': 1641313905182, 'v': 100}, {'c': ['1', '12'], 'p': 179.82, 's': 'AAPL', 't': 1641313905182, 'v': 75}, {'c': ['1'], 'p': 179.82, 's': 'AAPL', 't': 1641313905182, 'v': 100}, {'c': ['1'], 'p': 179.82, 's': 'AAPL', 't': 1641313905182, 'v': 100}, {'c': ['1'], 'p': 179.82, 's': 'AAPL', 't': 1641313905182, 'v': 100}, {'c': ['1', '12'], 'p': 179.82, 's': 'AAPL', 't': 1641313905182, 'v': 8}, {'c': ['1'], 'p': 179.82, 's': 'AAPL', 't': 1641313905182, 'v': 400}, {'c': ['1'], 'p': 179.82, 's': 'AAPL', 't': 1641313905182, 'v': 100}], 'type': 'trade'}
+{'data': [{'c': ['1'], 'p': 179.82, 's': 'AAPL', 't': 1641313905182, 'v': 100}, {'c': ['1'], 'p': 179.82, 's': 'AAPL', 't': 1641313905182, 'v': 200}, {'c': ['1'], 'p': 179.82, 's': 'AAPL', 't': 1641313905182, 'v': 100}, {'c': ['1'], 'p': 179.82, 's': 'AAPL', 't': 1641313905183, 'v': 100}, {'c': ['1'], 'p': 179.82, 's': 'AAPL', 't': 1641313905184, 'v': 100}, {'c': ['1', '12'], 'p': 179.815, 's': 'AAPL', 't': 1641313905183, 'v': 25}, {'c': ['1'], 'p': 179.815, 's': 'AAPL', 't': 1641313905183, 'v': 100}, {'c': ['1'], 'p': 179.815, 's': 'AAPL', 't': 1641313905201, 'v': 150}, {'c': ['1', '12'], 'p': 179.82, 's': 'AAPL', 't': 1641313905257, 'v': 4}, {'c': ['1', '12'], 'p': 3335.02, 's': 'AMZN', 't': 1641313905278, 'v': 25}], 'type': 'trade'}
+{'data': [{'c': ['1', '12'], 'p': 3336.0709, 's': 'AMZN', 't': 1641313905283, 'v': 20}, {'c': ['1', '12'], 'p': 3335.02, 's': 'AMZN', 't': 1641313905278, 'v': 25}, {'c': ['1', '12'], 'p': 3336.0709, 's': 'AMZN', 't': 1641313905283, 'v': 20}, {'c': ['1'], 'p': 179.81, 's': 'AAPL', 't': 1641313905284, 'v': 100}, {'c': ['1', '8', '12'], 'p': 179.81, 's': 'AAPL', 't': 1641313905291, 'v': 4}, {'c': ['1', '8'], 'p': 179.81, 's': 'AAPL', 't': 1641313905291, 'v': 100}, {'c': ['1', '8', '12'], 'p': 179.81, 's': 'AAPL', 't': 1641313905291, 'v': 1}, {'c': ['1', '8'], 'p': 179.81, 's': 'AAPL', 't': 1641313905291, 'v': 100}, {'c': ['1', '8', '12'], 'p': 179.81, 's': 'AAPL', 't': 1641313905291, 'v': 42}, {'c': ['1', '8'], 'p': 179.81, 's': 'AAPL', 't': 1641313905291, 'v': 270}], 'type': 'trade'}
+{'data': [{'c': ['1', '12'], 'p': 3335.84, 's': 'AMZN', 't': 1641313905409, 'v': 1}, {'c': ['1', '12'], 'p': 3335.84, 's': 'AMZN', 't': 1641313905409, 'v': 1}, {'c': None, 'p': 46675.64, 's': 'BINANCE:BTCUSDT', 't': 1641313905460, 'v': 0.02122}, {'c': ['1'], 'p': 179.8099, 's': 'AAPL', 't': 1641313905532, 'v': 100}, {'c': ['1', '12'], 'p': 3335.1827, 's': 'AMZN', 't': 1641313905564, 'v': 25}, {'c': ['1', '12'], 'p': 3335.1827, 's': 'AMZN', 't': 1641313905564, 'v': 25}, {'c': None, 'p': 46675.64, 's': 'BINANCE:BTCUSDT', 't': 1641313905712, 'v': 0.02286}, {'c': None, 'p': 46675.64, 's': 'BINANCE:BTCUSDT', 't': 1641313905712, 'v': 0.00081}, {'c': None, 'p': 46675.64, 's': 'BINANCE:BTCUSDT', 't': 1641313905712, 'v': 0.00971}, {'c': None, 'p': 46675.64, 's': 'BINANCE:BTCUSDT', 't': 1641313905712, 'v': 0.05205}], 'type': 'trade'}
+{'data': [{'c': None, 'p': 1.12938, 's': 'IC MARKETS:1', 't': 1641313899094, 'v': 0}, {'c': None, 'p': 3841.01, 's': 'BINANCE:ETHUSDT', 't': 1641313905714, 'v': 0.0921}, {'c': ['1', '12'], 'p': 179.8087, 's': 'AAPL', 't': 1641313905672, 'v': 12}, {'c': None, 'p': 46675.64, 's': 'BINANCE:BTCUSDT', 't': 1641313905638, 'v': 0.01336}, {'c': None, 'p': 3841, 's': 'BINANCE:ETHUSDT', 't': 1641313905748, 'v': 0.0982}, {'c': None, 'p': 3841, 's': 'BINANCE:ETHUSDT', 't': 1641313905748, 'v': 0.2318}, {'c': ['1'], 'p': 179.8, 's': 'AAPL', 't': 1641313905688, 'v': 100}, {'c': ['1', '12'], 'p': 179.81, 's': 'AAPL', 't': 1641313905741, 'v': 2}, {'c': None, 'p': 46675.64, 's': 'BINANCE:BTCUSDT', 't': 1641313905840, 'v': 0.0005}, {'c': ['1'], 'p': 179.808, 's': 'AAPL', 't': 1641313905920, 'v': 100}], 'type': 'trade'}
+
+
+
+[
+{'description': 'COINBASE ZEN/USDT', 'displaySymbol': 'ZEN/USDT', 'symbol': 'COINBASE:ZEN-USDT'},
+{'description': 'COINBASE WBTC/BTC', 'displaySymbol': 'WBTC/BTC', 'symbol': 'COINBASE:WBTC-BTC'},
+{'description': 'COINBASE OMG/EUR', 'displaySymbol': 'OMG/EUR', 'symbol': 'COINBASE:OMG-EUR'},
+{'description': 'COINBASE BAL/BTC', 'displaySymbol': 'BAL/BTC', 'symbol': 'COINBASE:BAL-BTC'},
+ {'description': 'COINBASE BADGER/EUR', 'displaySymbol': 'BADGER/EUR', 'symbol': 'COINBASE:BADGER-EUR'},
+  {'description': 'COINBASE CLV/USD', 'displaySymbol': 'CLV/USD', 'symbol': 'COINBASE:CLV-USD'},
+  {'description': 'COINBASE FIL/GBP', 'displaySymbol': 'FIL/GBP', 'symbol': 'COINBASE:FIL-GBP'},
+  {'description': 'COINBASE FORTH/USD', 'displaySymbol': 'FORTH/USD', 'symbol': 'COINBASE:FORTH-USD'},
+   {'description': 'COINBASE AGLD/USDT', 'displaySymbol': 'AGLD/USDT', 'symbol': 'COINBASE:AGLD-USDT'},
+    {'description': 'COINBASE WLUNA/USD', 'displaySymbol': 'WLUNA/USD', 'symbol': 'COINBASE:WLUNA-USD'},
+    {'description': 'COINBASE ADA/ETH', 'displaySymbol': 'ADA/ETH', 'symbol': 'COINBASE:ADA-ETH'},
+    {'description': 'COINBASE CLV/USDT', 'displaySymbol': 'CLV/USDT', 'symbol': 'COINBASE:CLV-USDT'},
+    {'description': 'COINBASE MANA/EUR', 'displaySymbol': 'MANA/EUR', 'symbol': 'COINBASE:MANA-EUR'},
+    {'description': 'COINBASE MASK/GBP', 'displaySymbol': 'MASK/GBP', 'symbol': 'COINBASE:MASK-GBP'},
+    {'description': 'COINBASE CHZ/USDT', 'displaySymbol': 'CHZ/USDT', 'symbol': 'COINBASE:CHZ-USDT'},
+    {'description': 'COINBASE ADA/GBP', 'displaySymbol': 'ADA/GBP', 'symbol': 'COINBASE:ADA-GBP'},
+     {'description': 'COINBASE REQ/USDT', 'displaySymbol': 'REQ/USDT', 'symbol': 'COINBASE:REQ-USDT'},
+     {'description': 'COINBASE MKR/BTC', 'displaySymbol': 'MKR/BTC', 'symbol': 'COINBASE:MKR-BTC'},
+      {'description': 'COINBASE ZRX/USD', 'displaySymbol': 'ZRX/USD', 'symbol': 'COINBASE:ZRX-USD'},
+       {'description': 'COINBASE FIL/BTC', 'displaySymbol': 'FIL/BTC', 'symbol': 'COINBASE:FIL-BTC'},
+        {'description': 'COINBASE IOTX/EUR', 'displaySymbol': 'IOTX/EUR', 'symbol': 'COINBASE:IOTX-EUR'},
+         {'description': 'COINBASE DOGE/BTC', 'displaySymbol': 'DOGE/BTC', 'symbol': 'COINBASE:DOGE-BTC'},
+          {'description': 'COINBASE COMP/USD', 'displaySymbol': 'COMP/USD', 'symbol': 'COINBASE:COMP-USD'},
+           {'description': 'COINBASE 1INCH/EUR', 'displaySymbol': '1INCH/EUR', 'symbol': 'COINBASE:1INCH-EUR'},
+            {'description': 'COINBASE OGN/USD', 'displaySymbol': 'OGN/USD', 'symbol': 'COINBASE:OGN-USD'},
+            {'description': 'COINBASE SNX/BTC', 'displaySymbol': 'SNX/BTC', 'symbol': 'COINBASE:SNX-BTC'},
+            {'description': 'COINBASE WLUNA/GBP', 'displaySymbol': 'WLUNA/GBP', 'symbol': 'COINBASE:WLUNA-GBP'},
+             {'description': 'COINBASE ARPA/USD', 'displaySymbol': 'ARPA/USD', 'symbol': 'COINBASE:ARPA-USD'},
+              {'description': 'COINBASE ASM/USDT', 'displaySymbol': 'ASM/USDT', 'symbol': 'COINBASE:ASM-USDT'},
+       {'description': 'COINBASE LINK/EUR', 'displaySymbol': 'LINK/EUR', 'symbol': 'COINBASE:LINK-EUR'},
+        {'description': 'COINBASE LINK/GBP', 'displaySymbol': 'LINK/GBP', 'symbol': 'COINBASE:LINK-GBP'},
+         {'description': 'COINBASE XYO/USDT', 'displaySymbol': 'XYO/USDT', 'symbol': 'COINBASE:XYO-USDT'},
+          {'description': 'COINBASE USDT/USDC', 'displaySymbol': 'USDT/USDC', 'symbol': 'COINBASE:USDT-USDC'},
+           {'description': 'COINBASE SKL/USD', 'displaySymbol': 'SKL/USD', 'symbol': 'COINBASE:SKL-USD'},
+           {'description': 'COINBASE SNX/GBP', 'displaySymbol': 'SNX/GBP', 'symbol': 'COINBASE:SNX-GBP'},
+            {'description': 'COINBASE CRV/BTC', 'displaySymbol': 'CRV/BTC', 'symbol': 'COINBASE:CRV-BTC'},
+            {'description': 'COINBASE XLM/EUR', 'displaySymbol': 'XLM/EUR', 'symbol': 'COINBASE:XLM-EUR'},
+             {'description': 'COINBASE CVC/USDC', 'displaySymbol': 'CVC/USDC', 'symbol': 'COINBASE:CVC-USDC'},
+              {'description': 'COINBASE QUICK/USD', 'displaySymbol': 'QUICK/USD', 'symbol': 'COINBASE:QUICK-USD'}
+              , {'description': 'COINBASE LINK/ETH', 'displaySymbol': 'LINK/ETH', 'symbol': 'COINBASE:LINK-ETH'},
+               {'description': 'COINBASE BTC/USD', 'displaySymbol': 'BTC/USD', 'symbol': 'COINBASE:BTC-USD'},
+                {'description': 'COINBASE ANKR/BTC', 'displaySymbol': 'ANKR/BTC', 'symbol': 'COINBASE:ANKR-BTC'},
+                 {'description': 'COINBASE AUCTION/USD', 'displaySymbol': 'AUCTION/USD', 'symbol': 'COINBASE:AUCTION-USD'},
+                  {'description': 'COINBASE ZEC/USD', 'displaySymbol': 'ZEC/USD', 'symbol': 'COINBASE:ZEC-USD'},
+                   {'description': 'COINBASE SUSHI/GBP', 'displaySymbol': 'SUSHI/GBP', 'symbol': 'COINBASE:SUSHI-GBP'},
+                    {'description': 'COINBASE ICP/USDT', 'displaySymbol': 'ICP/USDT', 'symbol': 'COINBASE:ICP-USDT'},
+                     {'description': 'COINBASE DOT/BTC', 'displaySymbol': 'DOT/BTC', 'symbol': 'COINBASE:DOT-BTC'},
+
+                      {'description': 'COINBASE SOL/BTC', 'displaySymbol': 'SOL/BTC', 'symbol': 'COINBASE:SOL-BTC'},
+                       {'description': 'COINBASE ORN/USDT', 'displaySymbol': 'ORN/USDT', 'symbol': 'COINBASE:ORN-USDT'},
+                        {'description': 'COINBASE FET/USDT', 'displaySymbol': 'FET/USDT', 'symbol': 'COINBASE:FET-USDT'},
+                         {'description': 'COINBASE DNT/USDC', 'displaySymbol': 'DNT/USDC', 'symbol': 'COINBASE:DNT-USDC'},
+                          {'description': 'COINBASE EOS/USD', 'displaySymbol': 'EOS/USD', 'symbol': 'COINBASE:EOS-USD'},
+                           {'description': 'COINBASE BCH/GBP', 'displaySymbol': 'BCH/GBP', 'symbol': 'COINBASE:BCH-GBP'},
+                            {'description': 'COINBASE ARPA/EUR', 'displaySymbol': 'ARPA/EUR', 'symbol': 'COINBASE:ARPA-EUR'},
+                             {'description': 'COINBASE SNX/USD', 'displaySymbol': 'SNX/USD', 'symbol': 'COINBASE:SNX-USD'},
+
+
+
+                  {'description': 'COINBASE ASM/USD', 'displaySymbol': 'ASM/USD', 'symbol': 'COINBASE:ASM-USD'},
+                   {'description': 'COINBASE REP/USD', 'displaySymbol': 'REP/USD', 'symbol': 'COINBASE:REP-USD'},
+                    {'description': 'COINBASE RARI/USD', 'displaySymbol': 'RARI/USD', 'symbol': 'COINBASE:RARI-USD'},
+              {'description': 'COINBASE OMG/GBP', 'displaySymbol': 'OMG/GBP', 'symbol': 'COINBASE:OMG-GBP'},
+               {'description': 'COINBASE POLY/USD', 'displaySymbol': 'POLY/USD', 'symbol': 'COINBASE:POLY-USD'},
+                {'description': 'COINBASE BAT/BTC', 'displaySymbol': 'BAT/BTC', 'symbol': 'COINBASE:BAT-BTC'},
+                 {'description': 'COINBASE REQ/USD', 'displaySymbol': 'REQ/USD', 'symbol': 'COINBASE:REQ-USD'},
+                 {'description': 'COINBASE RGT/USD', 'displaySymbol': 'RGT/USD', 'symbol': 'COINBASE:RGT-USD'},
+           {'description': 'COINBASE TRB/USD', 'displaySymbol': 'TRB/USD', 'symbol': 'COINBASE:TRB-USD'},
+            {'description': 'COINBASE BTC/GBP', 'displaySymbol': 'BTC/GBP', 'symbol': 'COINBASE:BTC-GBP'},
+             {'description': 'COINBASE OMG/BTC', 'displaySymbol': 'OMG/BTC', 'symbol': 'COINBASE:OMG-BTC'},
+              {'description': 'COINBASE TRIBE/USD', 'displaySymbol': 'TRIBE/USD', 'symbol': 'COINBASE:TRIBE-USD'},
+               {'description': 'COINBASE ADA/EUR', 'displaySymbol': 'ADA/EUR', 'symbol': 'COINBASE:ADA-EUR'},
+                {'description': 'COINBASE FORTH/GBP', 'displaySymbol': 'FORTH/GBP', 'symbol': 'COINBASE:FORTH-GBP'},
+                 {'description': 'COINBASE FARM/USD', 'displaySymbol': 'FARM/USD', 'symbol': 'COINBASE:FARM-USD'},
+             {'description': 'COINBASE UMA/BTC', 'displaySymbol': 'UMA/BTC', 'symbol': 'COINBASE:UMA-BTC'},
+              {'description': 'COINBASE BTC/EUR', 'displaySymbol': 'BTC/EUR', 'symbol': 'COINBASE:BTC-EUR'},
+               {'description': 'COINBASE SNX/EUR', 'displaySymbol': 'SNX/EUR', 'symbol': 'COINBASE:SNX-EUR'},
+                {'description': 'COINBASE KEEP/USD', 'displaySymbol': 'KEEP/USD', 'symbol': 'COINBASE:KEEP-USD'},
+           {'description': 'COINBASE CHZ/USD', 'displaySymbol': 'CHZ/USD', 'symbol': 'COINBASE:CHZ-USD'},
+            {'description': 'COINBASE BAND/EUR', 'displaySymbol': 'BAND/EUR', 'symbol': 'COINBASE:BAND-EUR'},
+             {'description': 'COINBASE REQ/BTC', 'displaySymbol': 'REQ/BTC', 'symbol': 'COINBASE:REQ-BTC'},
+              {'description': 'COINBASE AUCTION/USDT', 'displaySymbol': 'AUCTION/USDT', 'symbol': 'COINBASE:AUCTION-USDT'},
+           {'description': 'COINBASE NKN/EUR', 'displaySymbol': 'NKN/EUR', 'symbol': 'COINBASE:NKN-EUR'},
+            {'description': 'COINBASE LTC/EUR', 'displaySymbol': 'LTC/EUR', 'symbol': 'COINBASE:LTC-EUR'},
+             {'description': 'COINBASE RAD/EUR', 'displaySymbol': 'RAD/EUR', 'symbol': 'COINBASE:RAD-EUR'},
+              {'description': 'COINBASE ENJ/USD', 'displaySymbol': 'ENJ/USD', 'symbol': 'COINBASE:ENJ-USD'},
+               {'description': 'COINBASE XYO/USD', 'displaySymbol': 'XYO/USD', 'symbol': 'COINBASE:XYO-USD'},
+                {'description': 'COINBASE UMA/GBP', 'displaySymbol': 'UMA/GBP', 'symbol': 'COINBASE:UMA-GBP'},
+                 {'description': 'COINBASE CTSI/USD', 'displaySymbol': 'CTSI/USD', 'symbol': 'COINBASE:CTSI-USD'},
+                  {'description': 'COINBASE TRB/BTC', 'displaySymbol': 'TRB/BTC', 'symbol': 'COINBASE:TRB-BTC'},
+                   {'description': 'COINBASE ADA/USDC', 'displaySymbol': 'ADA/USDC', 'symbol': 'COINBASE:ADA-USDC'},
+                   {'description': 'COINBASE PAX/USDT', 'displaySymbol': 'PAX/USDT', 'symbol': 'COINBASE:PAX-USDT'},
+                    {'description': 'COINBASE UNI/USD', 'displaySymbol': 'UNI/USD', 'symbol': 'COINBASE:UNI-USD'},
+           {'description': 'COINBASE NMR/USD', 'displaySymbol': 'NMR/USD', 'symbol': 'COINBASE:NMR-USD'},
+            {'description': 'COINBASE PAX/USD', 'displaySymbol': 'PAX/USD', 'symbol': 'COINBASE:PAX-USD'},
+             {'description': 'COINBASE DOGE/USDT', 'displaySymbol': 'DOGE/USDT', 'symbol': 'COINBASE:DOGE-USDT'},
+              {'description': 'COINBASE ALGO/GBP', 'displaySymbol': 'ALGO/GBP', 'symbol': 'COINBASE:ALGO-GBP'},
+               {'description': 'COINBASE 1INCH/GBP', 'displaySymbol': '1INCH/GBP', 'symbol': 'COINBASE:1INCH-GBP'},
+                {'description': 'COINBASE LRC/BTC', 'displaySymbol': 'LRC/BTC', 'symbol': 'COINBASE:LRC-BTC'},
+                 {'description': 'COINBASE NU/BTC', 'displaySymbol': 'NU/BTC', 'symbol': 'COINBASE:NU-BTC'},
+                  {'description': 'COINBASE MIR/EUR', 'displaySymbol': 'MIR/EUR', 'symbol': 'COINBASE:MIR-EUR'},
+           {'description': 'COINBASE NKN/USD', 'displaySymbol': 'NKN/USD', 'symbol': 'COINBASE:NKN-USD'},
+            {'description': 'COINBASE ADA/USD', 'displaySymbol': 'ADA/USD', 'symbol': 'COINBASE:ADA-USD'},
+             {'description': 'COINBASE OXT/USD', 'displaySymbol': 'OXT/USD', 'symbol': 'COINBASE:OXT-USD'},
+              {'description': 'COINBASE XYO/BTC', 'displaySymbol': 'XYO/BTC', 'symbol': 'COINBASE:XYO-BTC'},
+            {'description': 'COINBASE NKN/GBP', 'displaySymbol': 'NKN/GBP', 'symbol': 'COINBASE:NKN-GBP'},
+             {'description': 'COINBASE RLC/USD', 'displaySymbol': 'RLC/USD', 'symbol': 'COINBASE:RLC-USD'},
+            {'description': 'COINBASE LPT/USD', 'displaySymbol': 'LPT/USD', 'symbol': 'COINBASE:LPT-USD'},
+             {'description': 'COINBASE BTRST/BTC', 'displaySymbol': 'BTRST/BTC', 'symbol': 'COINBASE:BTRST-BTC'},
+              {'description': 'COINBASE PERP/USDT', 'displaySymbol': 'PERP/USDT', 'symbol': 'COINBASE:PERP-USDT'},
+               {'description': 'COINBASE AAVE/EUR', 'displaySymbol': 'AAVE/EUR', 'symbol': 'COINBASE:AAVE-EUR'},
+                {'description': 'COINBASE SKL/BTC', 'displaySymbol': 'SKL/BTC', 'symbol': 'COINBASE:SKL-BTC'},
+                 {'description': 'COINBASE DASH/BTC', 'displaySymbol': 'DASH/BTC', 'symbol': 'COINBASE:DASH-BTC'},
+                 {'description': 'COINBASE CTSI/BTC', 'displaySymbol': 'CTSI/BTC', 'symbol': 'COINBASE:CTSI-BTC'},
+                  {'description': 'COINBASE BCH/USD', 'displaySymbol': 'BCH/USD', 'symbol': 'COINBASE:BCH-USD'},
+                   {'description': 'COINBASE KNC/BTC', 'displaySymbol': 'KNC/BTC', 'symbol': 'COINBASE:KNC-BTC'},
+                    {'description': 'COINBASE USDT/GBP', 'displaySymbol': 'USDT/GBP', 'symbol': 'COINBASE:USDT-GBP'},
+                {'description': 'COINBASE LINK/BTC', 'displaySymbol': 'LINK/BTC', 'symbol': 'COINBASE:LINK-BTC'},
+                 {'description': 'COINBASE XLM/USD', 'displaySymbol': 'XLM/USD', 'symbol': 'COINBASE:XLM-USD'},
+               {'description': 'COINBASE DAI/USD', 'displaySymbol': 'DAI/USD', 'symbol': 'COINBASE:DAI-USD'},
+                {'description': 'COINBASE REP/BTC', 'displaySymbol': 'REP/BTC', 'symbol': 'COINBASE:REP-BTC'},
+                {'description': 'COINBASE MASK/USDT', 'displaySymbol': 'MASK/USDT', 'symbol': 'COINBASE:MASK-USDT'},
+                 {'description': 'COINBASE NU/GBP', 'displaySymbol': 'NU/GBP', 'symbol': 'COINBASE:NU-GBP'},
+                 {'description': 'COINBASE MANA/USDC', 'displaySymbol': 'MANA/USDC', 'symbol': 'COINBASE:MANA-USDC'},
+      {'description': 'COINBASE PERP/USD', 'displaySymbol': 'PERP/USD', 'symbol': 'COINBASE:PERP-USD'},
+      {'description': 'COINBASE AXS/EUR', 'displaySymbol': 'AXS/EUR', 'symbol': 'COINBASE:AXS-EUR'},
+      {'description': 'COINBASE FET/USD', 'displaySymbol': 'FET/USD', 'symbol': 'COINBASE:FET-USD'},
+       {'description': 'COINBASE REN/BTC', 'displaySymbol': 'REN/BTC', 'symbol': 'COINBASE:REN-BTC'},
+       {'description': 'COINBASE DOT/USD', 'displaySymbol': 'DOT/USD', 'symbol': 'COINBASE:DOT-USD'},
+       {'description': 'COINBASE MLN/USD', 'displaySymbol': 'MLN/USD', 'symbol': 'COINBASE:MLN-USD'},
+       {'description': 'COINBASE RAD/USDT', 'displaySymbol': 'RAD/USDT', 'symbol': 'COINBASE:RAD-USDT'},
+        {'description': 'COINBASE CGLD/BTC', 'displaySymbol': 'CGLD/BTC', 'symbol': 'COINBASE:CGLD-BTC'},
+         {'description': 'COINBASE RAD/USD', 'displaySymbol': 'RAD/USD', 'symbol': 'COINBASE:RAD-USD'},
+          {'description': 'COINBASE NMR/EUR', 'displaySymbol': 'NMR/EUR', 'symbol': 'COINBASE:NMR-EUR'},
+          {'description': 'COINBASE GRT/USD', 'displaySymbol': 'GRT/USD', 'symbol': 'COINBASE:GRT-USD'},
+       {'description': 'COINBASE BTC/UST', 'displaySymbol': 'BTC/UST', 'symbol': 'COINBASE:BTC-UST'},
+        {'description': 'COINBASE LTC/BTC', 'displaySymbol': 'LTC/BTC', 'symbol': 'COINBASE:LTC-BTC'},
+        {'description': 'COINBASE FIL/EUR', 'displaySymbol': 'FIL/EUR', 'symbol': 'COINBASE:FIL-EUR'},
+         {'description': 'COINBASE ZEC/BTC', 'displaySymbol': 'ZEC/BTC', 'symbol': 'COINBASE:ZEC-BTC'},
+          {'description': 'COINBASE BCH/EUR', 'displaySymbol': 'BCH/EUR', 'symbol': 'COINBASE:BCH-EUR'},
+           {'description': 'COINBASE ZEC/USDC', 'displaySymbol': 'ZEC/USDC', 'symbol': 'COINBASE:ZEC-USDC'},
+            {'description': 'COINBASE DOGE/GBP', 'displaySymbol': 'DOGE/GBP', 'symbol': 'COINBASE:DOGE-GBP'},
+             {'description': 'COINBASE ZRX/EUR', 'displaySymbol': 'ZRX/EUR', 'symbol': 'COINBASE:ZRX-EUR'},
+       {'description': 'COINBASE SOL/EUR', 'displaySymbol': 'SOL/EUR', 'symbol': 'COINBASE:SOL-EUR'},
+       {'description': 'COINBASE USDC/EUR', 'displaySymbol': 'USDC/EUR', 'symbol': 'COINBASE:USDC-EUR'},
+       {'description': 'COINBASE TRU/USDT', 'displaySymbol': 'TRU/USDT', 'symbol': 'COINBASE:TRU-USDT'},
+       {'description': 'COINBASE XTZ/BTC', 'displaySymbol': 'XTZ/BTC', 'symbol': 'COINBASE:XTZ-BTC'},
+
+       {'description': 'COINBASE CLV/EUR', 'displaySymbol': 'CLV/EUR', 'symbol': 'COINBASE:CLV-EUR'},
+       {'description': 'COINBASE SOL/USDT', 'displaySymbol': 'SOL/USDT', 'symbol': 'COINBASE:SOL-USDT'},
+        {'description': 'COINBASE ANKR/GBP', 'displaySymbol': 'ANKR/GBP', 'symbol': 'COINBASE:ANKR-GBP'},
+         {'description': 'COINBASE ETH/DAI', 'displaySymbol': 'ETH/DAI', 'symbol': 'COINBASE:ETH-DAI'},
+         {'description': 'COINBASE ZEN/BTC', 'displaySymbol': 'ZEN/BTC', 'symbol': 'COINBASE:ZEN-BTC'},
+         {'description': 'COINBASE ETH/USD', 'displaySymbol': 'ETH/USD', 'symbol': 'COINBASE:ETH-USD'},
+          {'description': 'COINBASE RLY/USDT', 'displaySymbol': 'RLY/USDT', 'symbol': 'COINBASE:RLY-USDT'},
+           {'description': 'COINBASE WLUNA/EUR', 'displaySymbol': 'WLUNA/EUR', 'symbol': 'COINBASE:WLUNA-EUR'},
+            {'description': 'COINBASE ARPA/USDT', 'displaySymbol': 'ARPA/USDT', 'symbol': 'COINBASE:ARPA-USDT'},
+             {'description': 'COINBASE XTZ/USD', 'displaySymbol': 'XTZ/USD', 'symbol': 'COINBASE:XTZ-USD'},
+
+             {'description': 'COINBASE PLA/USD', 'displaySymbol': 'PLA/USD', 'symbol': 'COINBASE:PLA-USD'},
+      {'description': 'COINBASE WLUNA/USDT', 'displaySymbol': 'WLUNA/USDT', 'symbol': 'COINBASE:WLUNA-USDT'},
+       {'description': 'COINBASE DOT/GBP', 'displaySymbol': 'DOT/GBP', 'symbol': 'COINBASE:DOT-GBP'},
+       {'description': 'COINBASE MIR/USD', 'displaySymbol': 'MIR/USD', 'symbol': 'COINBASE:MIR-USD'},
+        {'description': 'COINBASE AXS/USDT', 'displaySymbol': 'AXS/USDT', 'symbol': 'COINBASE:AXS-USDT'},
+         {'description': 'COINBASE REQ/GBP', 'displaySymbol': 'REQ/GBP', 'symbol': 'COINBASE:REQ-GBP'},
+          {'description': 'COINBASE IOTX/BTC', 'displaySymbol': 'IOTX/BTC', 'symbol': 'COINBASE:IOTX-BTC'},
+           {'description': 'COINBASE AVAX/USDT', 'displaySymbol': 'AVAX/USDT', 'symbol': 'COINBASE:AVAX-USDT'},
+            {'description': 'COINBASE STORJ/USD', 'displaySymbol': 'STORJ/USD', 'symbol': 'COINBASE:STORJ-USD'},
+             {'description': 'COINBASE LTC/USD', 'displaySymbol': 'LTC/USD', 'symbol': 'COINBASE:LTC-USD'},
+              {'description': 'COINBASE TRU/USD', 'displaySymbol': 'TRU/USD', 'symbol': 'COINBASE:TRU-USD'},
+               {'description': 'COINBASE GRT/BTC', 'displaySymbol': 'GRT/BTC', 'symbol': 'COINBASE:GRT-BTC'},
+               {'description': 'COINBASE MANA/USD', 'displaySymbol': 'MANA/USD', 'symbol': 'COINBASE:MANA-USD'},
+                {'description': 'COINBASE XTZ/GBP', 'displaySymbol': 'XTZ/GBP', 'symbol': 'COINBASE:XTZ-GBP'},
+                 {'description': 'COINBASE UMA/USD', 'displaySymbol': 'UMA/USD', 'symbol': 'COINBASE:UMA-USD'},
+                 {'description': 'COINBASE AUCTION/EUR', 'displaySymbol': 'AUCTION/EUR', 'symbol': 'COINBASE:AUCTION-EUR'},
+             {'description': 'COINBASE CGLD/GBP', 'displaySymbol': 'CGLD/GBP', 'symbol': 'COINBASE:CGLD-GBP'},
+             {'descrion': 'COINBASE NU/USD', 'displaySymbol': 'NU/USD', 'symbol': 'COINBASE:NU-USD'},
+             {'description': 'COINBASE MATIC/EUR', 'displaySymbol': 'MATIC/EUR', 'symbol': 'COINBASE:MATIC-EUR'},
+              {'description': 'COINBASE ATOM/USD', 'displaySymbol': 'ATOM/USD', 'symbol': 'COINBASE:ATOM-USD'},
+               {'description': 'COINBASE ETH/GBP', 'displaySymbol': 'ETH/GBP', 'symbol': 'COINBASE:ETH-GBP'},
+               {'description': 'COINBASE CRV/USD', 'displaySymbol': 'CRV/USD', 'symbol': 'COINBASE:CRV-USD'},
+               {'description': 'COINBASE CHZ/GBP', 'displaySymbol': 'CHZ/GBP', 'symbol': 'COINBASE:CHZ-GBP'},
+               {'description': 'COINBASE ORN/USD', 'displaySymbol': 'ORN/USD', 'symbol': 'COINBASE:ORN-USD'},
+                {'description': 'COINBASE BAND/GBP', 'displaySymbol': 'BAND/GBP', 'symbol': 'COINBASE:BAND-GBP'},
+                {'description': 'COINBASE ETH/EUR', 'displaySymbol': 'ETH/EUR', 'symbol': 'COINBASE:ETH-EUR'},
+                {'description': 'COINBASE COMP/BTC', 'displaySymbol': 'COMP/BTC', 'symbol': 'COINBASE:COMP-BTC'},
+
+                {'description': 'COINBASE WCFG/USDT', 'displaySymbol': 'WCFG/USDT', 'symbol': 'COINBASE:WCFG-USDT'},
+                {'description': 'COINBASE EOS/EUR', 'displaySymbol': 'EOS/EUR', 'symbol': 'COINBASE:EOS-EUR'},
+                {'description': 'COINBASE XTZ/EUR', 'displaySymbol': 'XTZ/EUR', 'symbol': 'COINBASE:XTZ-EUR'},
+
+                {'description': 'COINBASE BCH/BTC', 'displaySymbol': 'BCH/BTC', 'symbol': 'COINBASE:BCH-BTC'},
+                {'description': 'COINBASE AAVE/USD', 'displaySymbol': 'AAVE/USD', 'symbol': 'COINBASE:AAVE-USD'},
+                 {'description': 'COINBASE CLV/GBP', 'displaySymbol': 'CLV/GBP', 'symbol': 'COINBASE:CLV-GBP'},
+                  {'description': 'COINBASE LINK/USD', 'displaySymbol': 'LINK/USD', 'symbol': 'COINBASE:LINK-USD'},
+
+                  {'description': 'COINBASE MASK/USD', 'displaySymbol': 'MASK/USD', 'symbol': 'COINBASE:MASK-USD'},
+                  {'description': 'COINBASE NKN/BTC', 'displaySymbol': 'NKN/BTC', 'symbol': 'COINBASE:NKN-BTC'},
+                  {'description': 'COINBASE BAT/EUR', 'displaySymbol': 'BAT/EUR', 'symbol': 'COINBASE:BAT-EUR'},
+                   {'description': 'COINBASE BTRST/EUR', 'displaySymbol': 'BTRST/EUR', 'symbol': 'COINBASE:BTRST-EUR'},
+                   {'description': 'COINBASE YFI/USD', 'displaySymbol': 'YFI/USD', 'symbol': 'COINBASE:YFI-USD'},
+                   {'description': 'COINBASE GRT/GBP', 'displaySymbol': 'GRT/GBP', 'symbol': 'COINBASE:GRT-GBP'},
+                   {'description': 'COINBASE LOOM/USDC', 'displaySymbol': 'LOOM/USDC', 'symbol': 'COINBASE:LOOM-USDC'},
+                   {'description': 'COINBASE ADA/BTC', 'displaySymbol': 'ADA/BTC', 'symbol': 'COINBASE:ADA-BTC'},
+                   {'description': 'COINBASE MIR/BTC', 'displaySymbol': 'MIR/BTC', 'symbol': 'COINBASE:MIR-BTC'},
+                   {'description': 'COINBASE BAT/ETH', 'displaySymbol': 'BAT/ETH', 'symbol': 'COINBASE:BAT-ETH'},
+                   {'description': 'COINBASE CRV/GBP', 'displaySymbol': 'CRV/GBP', 'symbol': 'COINBASE:CRV-GBP'},
+                   {'description': 'COINBASE FORTH/EUR', 'displaySymbol': 'FORTH/EUR', 'symbol': 'COINBASE:FORTH-EUR'},
+                    {'description': 'COINBASE AMP/USD', 'displaySymbol': 'AMP/USD', 'symbol': 'COINBASE:AMP-USD'},
+                    {'description': 'COINBASE BNT/BTC', 'displaySymbol': 'BNT/BTC', 'symbol': 'COINBASE:BNT-BTC'},
+                    {'description': 'COINBASE SHIB/USD', 'displaySymbol': 'SHIB/USD', 'symbol': 'COINBASE:SHIB-USD'},
+                    {'description': 'COINBASE DOT/USDT', 'displaySymbol': 'DOT/USDT', 'symbol': 'COINBASE:DOT-USDT'},
+                     {'description': 'COINBASE PERP/EUR', 'displaySymbol': 'PERP/EUR', 'symbol': 'COINBASE:PERP-EUR'},
+                      {'description': 'COINBASE BNT/GBP', 'displaySymbol': 'BNT/GBP', 'symbol': 'COINBASE:BNT-GBP'},
+                      {'description': 'COINBASE DDX/EUR', 'displaySymbol': 'DDX/EUR', 'symbol': 'COINBASE:DDX-EUR'},
+                      {'description': 'COINBASE SOL/USD', 'displaySymbol': 'SOL/USD', 'symbol': 'COINBASE:SOL-USD'},
+                      {'description': 'COINBASE MANA/BTC', 'displaySymbol': 'MANA/BTC', 'symbol': 'COINBASE:MANA-BTC'},
+                      {'description': 'COINBASE ETC/GBP', 'displaySymbol': 'ETC/GBP', 'symbol': 'COINBASE:ETC-GBP'},
+                      {'description': 'COINBASE SUSHI/EUR', 'displaySymbol': 'SUSHI/EUR', 'symbol': 'COINBASE:SUSHI-EUR'},
+                       {'description': 'COINBASE UMA/EUR', 'displaySymbol': 'UMA/EUR', 'symbol': 'COINBASE:UMA-EUR'},
+                       {'description': 'COINBASE BNT/USD', 'displaySymbol': 'BNT/USD', 'symbol': 'COINBASE:BNT-USD'},
+                       {'description': 'COINBASE MIR/GBP', 'displaySymbol': 'MIR/GBP', 'symbol': 'COINBASE:MIR-GBP'},
+                       {'description': 'COINBASE CHZ/EUR', 'displaySymbol': 'CHZ/EUR', 'symbol': 'COINBASE:CHZ-EUR'},
+                       {'description': 'COINBASE BAND/USD', 'displaySymbol': 'BAND/USD', 'symbol': 'COINBASE:BAND-USD'},
+                        {'description': 'COINBASE SUSHI/USD', 'displaySymbol': 'SUSHI/USD', 'symbol': 'COINBASE:SUSHI-USD'},
+                         {'description': 'COINBASE WBTC/USD', 'displaySymbol': 'WBTC/USD', 'symbol': 'COINBASE:WBTC-USD'},
+                          {'description': 'COINBASE WCFG/USD', 'displaySymbol': 'WCFG/USD', 'symbol': 'COINBASE:WCFG-USD'},
+                          {'description': 'COINBASE 1INCH/USD', 'displaySymbol': '1INCH/USD', 'symbol': 'COINBASE:1INCH-USD'},
+                           {'description': 'COINBASE ICP/GBP', 'displaySymbol': 'ICP/GBP', 'symbol': 'COINBASE:ICP-GBP'},
+                            {'description': 'COINBASE ALGO/USD', 'displaySymbol': 'ALGO/USD', 'symbol': 'COINBASE:ALGO-USD'},
+
+                             {'description': 'COINBASE DDX/USD', 'displaySymbol': 'DDX/USD', 'symbol': 'COINBASE:DDX-USD'},
+                              {'description': 'COINBASE TRU/BTC', 'displaySymbol': 'TRU/BTC', 'symbol': 'COINBASE:TRU-BTC'},
+                              {'description': 'COINBASE ATOM/BTC', 'displaySymbol': 'ATOM/BTC', 'symbol': 'COINBASE:ATOM-BTC'},
+                               {'description': 'COINBASE ALGO/EUR', 'displaySymbol': 'ALGO/EUR', 'symbol': 'COINBASE:ALGO-EUR'},
+                               {'description': 'COINBASE ANKR/USD', 'displaySymbol': 'ANKR/USD', 'symbol': 'COINBASE:ANKR-USD'},
+                               {'description': 'COINBASE FX/USD', 'displaySymbol': 'FX/USD', 'symbol': 'COINBASE:FX-USD'},
+                               {'description': 'COINBASE USDT/EUR', 'displaySymbol': 'USDT/EUR', 'symbol': 'COINBASE:USDT-EUR'},
+                               {'description': 'COINBASE FIL/USD', 'displaySymbol': 'FIL/USD', 'symbol': 'COINBASE:FIL-USD'},
+                               {'description': 'COINBASE KNC/USD', 'displaySymbol': 'KNC/USD', 'symbol': 'COINBASE:KNC-USD'},
+                               {'description': 'COINBASE CGLD/USD', 'displaySymbol': 'CGLD/USD', 'symbol': 'COINBASE:CGLD-USD'},
+                               {'description': 'COINBASE BAT/USD', 'displaySymbol': 'BAT/USD', 'symbol': 'COINBASE:BAT-USD'},
+                               {'description': 'COINBASE BTRST/USDT', 'displaySymbol': 'BTRST/USDT', 'symbol': 'COINBASE:BTRST-USDT'},
+                               {'description': 'COINBASE ANKR/EUR', 'displaySymbol': 'ANKR/EUR', 'symbol': 'COINBASE:ANKR-EUR'},
+                               {'description': 'COINBASE DOGE/EUR', 'displaySymbol': 'DOGE/EUR', 'symbol': 'COINBASE:DOGE-EUR'},
+                               {'description': 'COINBASE ENJ/BTC', 'displaySymbol': 'ENJ/BTC', 'symbol': 'COINBASE:ENJ-BTC'},
+                                {'description': 'COINBASE ICP/BTC', 'displaySymbol': 'ICP/BTC', 'symbol': 'COINBASE:ICP-BTC'},
+                                {'description': 'COINBASE ZEN/USD', 'displaySymbol': 'ZEN/USD', 'symbol': 'COINBASE:ZEN-USD'},
+                                {'description': 'COINBASE RLY/EUR', 'displaySymbol': 'RLY/EUR', 'symbol': 'COINBASE:RLY-EUR'},
+                                {'description': 'COINBASE SOL/GBP', 'displaySymbol': 'SOL/GBP', 'symbol': 'COINBASE:SOL-GBP'},
+                                {'description': 'COINBASE UST/USD', 'displaySymbol': 'UST/USD', 'symbol': 'COINBASE:UST-USD'},
+                                {'description': 'COINBASE STORJ/BTC', 'displaySymbol': 'STORJ/BTC', 'symbol': 'COINBASE:STORJ-BTC'},
+                                {'description': 'COINBASE FORTH/BTC', 'displaySymbol': 'FORTH/BTC', 'symbol': 'COINBASE:FORTH-BTC'},
+                                {'description': 'COINBASE RAD/GBP', 'displaySymbol': 'RAD/GBP', 'symbol': 'COINBASE:RAD-GBP'},
+                                {'description': 'COINBASE SUSHI/ETH', 'displaySymbol': 'SUSHI/ETH', 'symbol': 'COINBASE:SUSHI-ETH'},
+                                {'description': 'COINBASE YFII/USD', 'displaySymbol': 'YFII/USD', 'symbol': 'COINBASE:YFII-USD'},
+
+                               {'description': 'COINBASE BADGER/USDT', 'displaySymbol': 'BADGER/USDT', 'symbol': 'COINBASE:BADGER-USDT'},
+                    {'description': 'COINBASE GTC/USD', 'displaySymbol': 'GTC/USD', 'symbol': 'COINBASE:GTC-USD'},
+                  {'description': 'COINBASE WCFG/BTC', 'displaySymbol': 'WCFG/BTC', 'symbol': 'COINBASE:WCFG-BTC'},
+                 {'description': 'COINBASE JASMY/USD', 'displaySymbol': 'JASMY/USD', 'symbol': 'COINBASE:JASMY-USD'},
+                 {'description': 'COINBASE DOT/EUR', 'displaySymbol': 'DOT/EUR', 'symbol': 'COINBASE:DOT-EUR'},
+                {'description': 'COINBASE AAVE/GBP', 'displaySymbol': 'AAVE/GBP', 'symbol': 'COINBASE:AAVE-GBP'},
+                 {'description': 'COINBASE ZRX/BTC', 'displaySymbol': 'ZRX/BTC', 'symbol': 'COINBASE:ZRX-BTC'},
+                 {'description': 'COINBASE ETC/USD', 'displaySymbol': 'ETC/USD', 'symbol': 'COINBASE:ETC-USD'},
+                {'description': 'COINBASE BAT/USDC', 'displaySymbol': 'BAT/USDC', 'symbol': 'COINBASE:BAT-USDC'},
+                 {'description': 'COINBASE AXS/BTC', 'displaySymbol': 'AXS/BTC', 'symbol': 'COINBASE:AXS-BTC'},
+                 {'description': 'COINBASE MANA/ETH', 'displaySymbol': 'MANA/ETH', 'symbol': 'COINBASE:MANA-ETH'},
+                {'description': 'COINBASE XYO/EUR', 'displaySymbol': 'XYO/EUR', 'symbol': 'COINBASE:XYO-EUR'}]
+
+

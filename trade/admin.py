@@ -13,7 +13,7 @@ class TradeTransactionAdmin(admin.ModelAdmin):
 'is_trade_open','close_time', 'wallet', 'user','symbol',)
 
 class AssetAdmin(admin.ModelAdmin):
-	list_display =('symbol','name','price')
+	list_display =('name','symbol','price','chart_symbol','currency','bid','ask','group','popular','change')
 
 admin.site.register(Wallet,WalletAdmin)
 admin.site.register(Transaction,TransactionAdmin)
