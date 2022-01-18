@@ -209,7 +209,8 @@ DEV_WHITE_LIST = ["http://localhost:3000",
                         "https://webtrader.igmc.uk",
                         "https://igmcbackend.herokuapp.com",
                         ]
-PROD_WHITE_LIST= [  "https://dofxplus.netlify.app",
+PROD_WHITE_LIST= [  "http://localhost:3000",
+                    "https://dofxplus.netlify.app",
                     "https://webtrader.igmc.uk",
                     "https://igmcbackend.herokuapp.com",
                         ]
@@ -224,6 +225,7 @@ DEV_CORE_ORIGINS =["https://dofxplus.netlify.app",
                         ]
 PROD_CORE_ORIGINS=[ "https://dofxplus.netlify.app",
                     "https://webtrader.igmc.uk",
+                    "http://localhost:3000",
                         
                         ]
 
