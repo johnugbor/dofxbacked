@@ -11,7 +11,7 @@ class WalletSerializer(serializers.ModelSerializer):
 class TradeTransactionSerializer(serializers.ModelSerializer):
     class Meta:
         model = TradeTransaction
-        fields = ('open_price', 'asset_name', 'asset_volume', 'trade_type', 'cost', 'profit', 'stop_loss_value',
+        fields = ('id','open_price', 'asset_name', 'asset_volume', 'trade_type', 'cost', 'profit', 'stop_loss_value',
                   'stop_loss_price', 'is_trade_open', 'close_time', 'symbol')
 
 

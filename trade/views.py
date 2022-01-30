@@ -117,7 +117,7 @@ class BuyOrder(APIView):
         asset_symbol = request.data.get('symbol', None)
         asset_volume = request.data.get('volume')
         stop_loss_value = request.data.get('sl')
-        leverage = request.data.get('leverage')
+        leverage = 1
 
         success, error_msg, data = True, None, {}
 
@@ -152,6 +152,10 @@ class BuyOrder(APIView):
 
             cost = asset_volume * open_price
             stop_loss_price = (asset_volume * open_price - stop_loss_value) / open_price
+        if wallet.balance < cost:
+            success = False
+            error_msg = "Insufficient balance"
+        if success:
 
             wallet.openbuy(asset_name, asset_volume, useremail, cost, open_price, profit, stop_loss_value,
                            stop_loss_price, symbol, leverage)
@@ -173,7 +177,7 @@ class SellOrder(APIView):
         asset_symbol = request.data.get('symbol', None)
         asset_volume = request.data.get('volume')
         stop_loss_value = request.data.get('sl')
-        leverage = request.data.get('leverage')
+        leverage = 1
 
         success, error_msg, data = True, None, {}
 
@@ -208,6 +212,10 @@ class SellOrder(APIView):
 
             cost = asset_volume * open_price
             stop_loss_price = (asset_volume * open_price - stop_loss_value) / open_price
+        if wallet.balance < cost:
+            success = False
+            error_msg = "Insufficient balance"
+        if success:
 
             wallet.opensell(asset_name, asset_volume, useremail, cost, open_price, profit, stop_loss_value,
                             stop_loss_price, symbol, leverage)

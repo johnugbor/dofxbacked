@@ -2,10 +2,13 @@ from decimal import Decimal
 
 from django.utils.translation import gettext_lazy as _
 from django.db import models, transaction, IntegrityError
+from .errors import *
 
 from base.models import BaseModel
 from igmcaccount.models import User
-#from django.contrib.auth.models import User as Users
+
+
+# from django.contrib.auth.models import User as Users
 
 # Create your models here.
 
@@ -24,10 +27,6 @@ class Wallet(BaseModel):
     #     newwallet = cls(user=user)
     #     newwallet.create(user=user)
     #     return newwallet.balance
-
-
-
-
 
     @transaction.atomic()
     def deposit(self, amount, email):
@@ -57,7 +56,7 @@ class Wallet(BaseModel):
 
         obj = self.get_queryset().select_for_update().get()
         if amount > obj.balance:
-            raise errors.InsufficientFunds()
+            raise InsufficientFunds()
         obj.debit_withdraw_transaction.create(
             amount=amount,
             transaction_type='WITHD',
@@ -95,7 +94,7 @@ class Wallet(BaseModel):
 
         obj = self.get_queryset().select_for_update().get()
         if cost > obj.balance:
-            raise errors.InsufficientFunds()
+            raise InsufficientFunds()
         obj.tradetransaction.create(
 
             asset_name=asset_name,
@@ -124,8 +123,9 @@ class Wallet(BaseModel):
         stop_loss_price = Decimal(stop_loss_price)
 
         obj = self.get_queryset().select_for_update().get()
+        balance = obj.balance
         if cost > obj.balance:
-            raise errors.InsufficientFunds()
+            raise InsufficientFunds(balance, cost)
         obj.tradetransaction.create(
 
             asset_name=asset_name,
