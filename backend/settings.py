@@ -152,8 +152,8 @@ DEVELOPMENT_DATABASES2 = {
     }
 }
 
-DATABASES = PRODUCTION_DATABASES
-#DATABASES = DEVELOPMENT_DATABASES2
+#DATABASES = PRODUCTION_DATABASES
+DATABASES = DEVELOPMENT_DATABASES2
 # Password validation
 # https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators
 
@@ -213,6 +213,7 @@ PROD_WHITE_LIST= [  "http://localhost:3000",
                     "https://dofxplus.netlify.app",
                     "https://webtrader.igmc.uk",
                     "https://igmcbackend.herokuapp.com",
+                    "http://127.0.0.1:8000",
                         ]
 
 #CORS_ORIGIN_WHITELIST = DEV_WHITE_LIST
@@ -330,18 +331,18 @@ ACCOUNT_CONFIRM_EMAIL_ON_GET = True
 REST_USE_JWT = True
 
 #heroku gmail config
-EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
-
-EMAIL_HOST_USER = env('EMAIL_HOST_USER')
-EMAIL_HOST_PASSWORD = env('EMAIL_HOST_PASSWORD')
-EMAIL_USE_TLS= True
-EMAIL_PORT = 587
-EMAIL_HOST = 'smtp.gmail.com'
+# EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
+#
+# EMAIL_HOST_USER = env('EMAIL_HOST_USER')
+# EMAIL_HOST_PASSWORD = env('EMAIL_HOST_PASSWORD')
+# EMAIL_USE_TLS= True
+# EMAIL_PORT = 587
+# EMAIL_HOST = 'smtp.gmail.com'
 
 #console email test
-# EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
-# EMAIL_HOST = 'localhost'
-# EMAIL_PORT = 1025
+EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+EMAIL_HOST = 'localhost'
+EMAIL_PORT = 1025
 
 
 #production
